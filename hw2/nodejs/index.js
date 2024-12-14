@@ -8,7 +8,7 @@ const port = 3001;
 
 app.use(bodyParser.json());
 
-const mongoUri = 'mongodb://localhost:27017/monitoring_db';
+const mongoUri = process.env.MONGO_URI || 'mongodb://localhost:27017/monitoring_db';
 mongoose.connect(mongoUri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
@@ -20,7 +20,7 @@ const recordSchema = new mongoose.Schema({
 });
 const Record = mongoose.model('Record', recordSchema);
 
-const esUri = 'http://localhost:9200';
+const esUri = process.env.ELASTICSEARCH_URI || 'http://localhost:9200';
 const esClient = new Client({ node: esUri });
 const esIndex = 'monitoring';
 
