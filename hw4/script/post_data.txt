@@ -1,0 +1,2 @@
+http://localhost:8080/mongo POST {"data":"Test record"}
+http://localhost:8080/elastic POST {"data":"Test record"}
