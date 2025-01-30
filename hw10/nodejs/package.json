@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateUsers.js",
+  "type": "module",
+  "scripts": {
+    "start": "node generateUsers.js",
+    "dev": "nodemon generateUsers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "mysql2": "^3.12.0"
+  }
+}
