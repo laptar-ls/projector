@@ -1,5 +1,6 @@
-###  Request image:
-`curl -I localhost/one.jpg` 
 
-###  Request purge cache:
-`curl -I localhost/cache/one.jpg`
+###  Run docker:
+`docker compose up`
+###  Run script to seed 40m default users:
+`docker exec -it app node generateUsers.js`
+

@@ -2,23 +2,14 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "generateUsers.js",
   "type": "module",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@elastic/elasticsearch": "^8.17.0",
-    "body-parser": "^1.20.3",
-    "express": "^4.21.2",
-    "mongoose": "^8.8.4"
-
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.7"
+    "@faker-js/faker": "^9.4.0",
+    "mysql2": "^3.12.0"
   }
 }

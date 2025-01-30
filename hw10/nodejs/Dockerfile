@@ -1,13 +1,7 @@
 FROM node:22
-
-WORKDIR /usr/src/app
-
-COPY package*.json ./
-
-RUN npm install --production
-
+WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm install
 COPY . .
-
-EXPOSE 3001
-
-CMD ["npm", "start"]
+EXPOSE 3000
+CMD ["node", "server.js"]

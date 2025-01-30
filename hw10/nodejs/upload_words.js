@@ -1,38 +1,54 @@
-// # upload_words.js
-const fs = require('fs');
-const { Client } = require('@elastic/elasticsearch');
+import fs from 'fs';
+import { Client } from '@elastic/elasticsearch';
+
 const client = new Client({ node: 'http://elasticsearch:9200' });
 
 async function uploadWords() {
   try {
-    await client.indices.create({
-      index: 'autocomplete',
-      body: {
-        settings: {
-          analysis: {
-            analyzer: {
-              autocomplete_analyzer: {
-                type: 'custom',
-                tokenizer: 'standard',
-                filter: ['lowercase', 'asciifolding']
+    const indexExists = await client.indices.exists({ index: 'autocomplete' });
+    if (!indexExists.body) {
+      await client.indices.create({
+        index: 'autocomplete',
+        body: {
+          settings: {
+            analysis: {
+              analyzer: {
+                autocomplete_analyzer: {
+                  type: 'custom',
+                  tokenizer: 'standard',
+                  filter: ['lowercase', 'asciifolding']
+                }
               }
             }
-          }
-        },
-        mappings: {
-          properties: {
-            word: { type: 'text', analyzer: 'autocomplete_analyzer' }
+          },
+          mappings: {
+            properties: {
+              word: { type: 'text', analyzer: 'autocomplete_analyzer' }
+            }
           }
         }
+      });
+      console.log('Index created successfully');
+    } else {
+      console.log('Index already exists');
+    }
+
+    const wordsData = JSON.parse(fs.readFileSync('/app/words.json', 'utf-8'));
+    const words = Object.keys(wordsData);
+
+    const chunkSize = 500;
+    for (let i = 0; i < words.length; i += chunkSize) {
+      const chunk = words.slice(i, i + chunkSize).map(word => [{ index: { _index: 'autocomplete' } }, { word }]).flat();
+
+      try {
+        await client.bulk({ body: chunk });
+        console.log(`Uploaded ${i + chunkSize} words`);
+        await new Promise(resolve => setTimeout(resolve, 20));
+      } catch (bulkError) {
+        console.error('Error during bulk upload:', bulkError);
       }
-    });
+    }
 
-    const words = fs.readFileSync('/usr/share/dict/words', 'utf-8')
-      .split('\n')
-      .filter(Boolean)
-      .map(word => ({ index: { _index: 'autocomplete' } }, { word }));
-
-    await client.bulk({ body: words.flat() });
     console.log('Words uploaded successfully');
   } catch (error) {
     console.error('Error uploading words:', error);
@@ -40,37 +56,3 @@ async function uploadWords() {
 }
 
 uploadWords();
-
-// # server.js
-const express = require('express');
-const { Client } = require('@elastic/elasticsearch');
-const app = express();
-const client = new Client({ node: 'http://elasticsearch:9200' });
-
-app.get('/autocomplete', async (req, res) => {
-  const { query } = req.query;
-  if (!query) {
-    return res.status(400).json({ error: 'Query parameter is required' });
-  }
-
-  try {
-    const { body } = await client.search({
-      index: 'autocomplete',
-      body: {
-        query: {
-          match: {
-            word: {
-              query,
-              fuzziness: query.length > 7 ? 3 : 'AUTO'
-            }
-          }
-        }
-      }
-    });
-    res.json(body.hits.hits.map(hit => hit._source.word));
-  } catch (error) {
-    res.status(500).json({ error: error.message });
-  }
-});
-
-app.listen(3000, () => console.log('Server running on port 3000'));

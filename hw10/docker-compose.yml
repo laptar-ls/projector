@@ -1,15 +1,26 @@
-version: '3.8'
+version: '3.7'
 services:
-  mysql:
-    image: mysql:8.0
-    container_name: mysql-container
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.9
+    container_name: elasticsearch
     environment:
-      MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: testdb
-      MYSQL_USER: user
-      MYSQL_PASSWORD: password
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
     ports:
-      - "3306:3306"
+      - "9200:9200"
+      - "9300:9300"
     volumes:
-      - ./mysql-data:/var/lib/mysql
-      - ./init-scripts:/docker-entrypoint-initdb.d
+      - ./es-data:/usr/share/elasticsearch/data
+
+  app:
+    build: ./nodejs
+    container_name: app
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./words.json:/app/words.json
+    working_dir: /app
+    command: ["node", "server.js"]
+    depends_on:
+      - elasticsearch
