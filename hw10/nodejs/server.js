@@ -18,7 +18,7 @@ app.get('/autocomplete', async (req, res) => {
           match: {
             word: {
               query,
-              fuzziness: query.length > 7 ? 3 : 'AUTO'
+              analyzer: 'autocomplete_analyzer'
             }
           }
         }
@@ -34,7 +34,7 @@ app.get('/autocomplete', async (req, res) => {
       res.status(404).json({ error: 'No results found' });
     }
   } catch (error) {
-    console.error('Error:', error); // Log error for further debugging
+    console.error('Error:', error);
     res.status(500).json({ error: error.message });
   }
 });

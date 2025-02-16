@@ -12,11 +12,19 @@ async function uploadWords() {
         body: {
           settings: {
             analysis: {
+              tokenizer: {
+                autocomplete_tokenizer: {
+                  type: 'edge_ngram',
+                  min_gram: 2,
+                  max_gram: 10,
+                  token_chars: ['letter']
+                }
+              },
               analyzer: {
                 autocomplete_analyzer: {
                   type: 'custom',
-                  tokenizer: 'standard',
-                  filter: ['lowercase', 'asciifolding']
+                  tokenizer: 'autocomplete_tokenizer',
+                  filter: ['lowercase']
                 }
               }
             }
