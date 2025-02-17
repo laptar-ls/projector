@@ -14,11 +14,6 @@ services:
       - ./mysql-data:/var/lib/mysql
       - ./init-scripts:/docker-entrypoint-initdb.d
 
-#  app:
-#    build: ./nodejs
-#    container_name: app
-#    depends_on:
-#      - mysql
   app:
     build: ./nodejs
     container_name: app
