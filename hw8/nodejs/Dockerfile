@@ -1,6 +1,7 @@
 FROM node:22
-WORKDIR /app
-COPY package.json package-lock.json ./
+WORKDIR /usr/src/app
+COPY package*.json ./
 RUN npm install
 COPY . .
-CMD ["tail", "-f", "/dev/null"]
+EXPOSE 3000
+CMD ["node", "app.js"]

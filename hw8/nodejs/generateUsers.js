@@ -5,49 +5,55 @@ const DB_HOST = 'mysql';
 const DB_USER = 'user';
 const DB_PASSWORD = 'password';
 const DB_NAME = 'testdb';
+const BATCH_SIZE = 10000;
+const TOTAL_RECORDS = 40000000;
 
-async function insertUsers(batchSize = 10000, totalUsers = 40000000) {
-  const connection = await mysql.createConnection({
+async function getConnection() {
+  return mysql.createConnection({
     host: DB_HOST,
     user: DB_USER,
     password: DB_PASSWORD,
     database: DB_NAME,
   });
+}
 
-  console.log('Connected to database');
+async function insertFakeUsers() {
+  const connection = await getConnection();
+  console.log("Connected to database.");
 
   try {
-    let users = [];
-    for (let i = 1; i <= totalUsers; i++) {
-      const firstName = faker.person.firstName();
-      const lastName = faker.person.lastName();
-      const dob = faker.date.birthdate();
-      users.push([firstName, lastName, dob]);
+    for (let i = 0; i < TOTAL_RECORDS / BATCH_SIZE; i++) {
+      const users = [];
+      for (let j = 0; j < BATCH_SIZE; j++) {
+        const firstName = faker.person.firstName();
+        const lastName = faker.person.lastName();
+        const dateOfBirth = faker.date.birthdate();
+        users.push([firstName, lastName, dateOfBirth]);
+      }
 
-      if (users.length === batchSize) {
-        await connection.query(
-          'INSERT INTO users (first_name, last_name, date_of_birth) VALUES ?',
-          [users]
-        );
-        console.log(`Inserted batch of ${batchSize} users (${i}/${totalUsers})`);
-        users = [];
+      const sql = `INSERT INTO users (first_name, last_name, date_of_birth) VALUES ?`;
+
+      await connection.beginTransaction();
+
+      try {
+        await connection.query(sql, [users]);
+        await connection.commit();
+        console.log(`Inserted batch ${i + 1} / ${TOTAL_RECORDS / BATCH_SIZE}`);
+      } catch (err) {
+        await connection.rollback();
+        console.error("Error inserting batch:", err);
       }
     }
 
-    if (users.length > 0) {
-      await connection.query(
-        'INSERT INTO users (first_name, last_name, date_of_birth) VALUES ?',
-        [users]
-      );
-      console.log(`Inserted final batch of ${users.length} users`);
-    }
+    console.log("Rebuilding indexes...");
+    await connection.query("ALTER TABLE users ADD INDEX idx_dob_btree (date_of_birth) USING BTREE;");
+    await connection.query("ALTER TABLE users ADD INDEX idx_dob_hash (date_of_birth) USING HASH;");
+    console.log("Indexes added successfully.");
 
-    console.log('Data generation and insertion complete');
-  } catch (error) {
-    console.error('Error inserting users:', error);
   } finally {
     await connection.end();
+    console.log("Database connection closed.");
   }
 }
 
-insertUsers();
+insertFakeUsers().catch(console.error);
