@@ -1,0 +1,4002 @@
+[
+  {
+    "numElements": 456184,
+    "insertTime": 0.020626999999990403
+  },
+  {
+    "numElements": 447786,
+    "insertTime": 0.008731000000125277
+  },
+  {
+    "numElements": 579869,
+    "insertTime": 0.0038840000001982844
+  },
+  {
+    "numElements": 346941,
+    "insertTime": 0.003452000000152111
+  },
+  {
+    "numElements": 992500,
+    "insertTime": 0.004821999999876425
+  },
+  {
+    "numElements": 931278,
+    "insertTime": 0.004560000000310538
+  },
+  {
+    "numElements": 330179,
+    "insertTime": 0.00402299999996103
+  },
+  {
+    "numElements": 657300,
+    "insertTime": 0.004552000000330736
+  },
+  {
+    "numElements": 142419,
+    "insertTime": 0.007771999999931722
+  },
+  {
+    "numElements": 871429,
+    "insertTime": 0.006257999999434105
+  },
+  {
+    "numElements": 917008,
+    "insertTime": 0.004073999999491207
+  },
+  {
+    "numElements": 330301,
+    "insertTime": 0.003604000000450469
+  },
+  {
+    "numElements": 247411,
+    "insertTime": 0.003260999999838532
+  },
+  {
+    "numElements": 478540,
+    "insertTime": 0.003244000000449887
+  },
+  {
+    "numElements": 756332,
+    "insertTime": 0.003337999999530439
+  },
+  {
+    "numElements": 431652,
+    "insertTime": 0.0031909999997878913
+  },
+  {
+    "numElements": 517234,
+    "insertTime": 0.0032470000005559996
+  },
+  {
+    "numElements": 539644,
+    "insertTime": 0.0033559999992576195
+  },
+  {
+    "numElements": 81162,
+    "insertTime": 0.002395999999862397
+  },
+  {
+    "numElements": 165140,
+    "insertTime": 0.003153000001475448
+  },
+  {
+    "numElements": 308115,
+    "insertTime": 0.0032439999995403923
+  },
+  {
+    "numElements": 433101,
+    "insertTime": 0.017745999999533524
+  },
+  {
+    "numElements": 541056,
+    "insertTime": 0.0033549999989190837
+  },
+  {
+    "numElements": 882263,
+    "insertTime": 0.0032090000004245667
+  },
+  {
+    "numElements": 212776,
+    "insertTime": 0.0035499999994499376
+  },
+  {
+    "numElements": 534870,
+    "insertTime": 0.0032179999998334097
+  },
+  {
+    "numElements": 259428,
+    "insertTime": 0.003936000000976492
+  },
+  {
+    "numElements": 185338,
+    "insertTime": 0.003842999998596497
+  },
+  {
+    "numElements": 788721,
+    "insertTime": 0.0033910000001924345
+  },
+  {
+    "numElements": 982752,
+    "insertTime": 0.0035939999997935956
+  },
+  {
+    "numElements": 694928,
+    "insertTime": 0.003309000001536333
+  },
+  {
+    "numElements": 918964,
+    "insertTime": 0.003942999999708263
+  },
+  {
+    "numElements": 269649,
+    "insertTime": 0.0035939999997935956
+  },
+  {
+    "numElements": 671012,
+    "insertTime": 0.0034629999991011573
+  },
+  {
+    "numElements": 436960,
+    "insertTime": 0.0033970000004046597
+  },
+  {
+    "numElements": 591826,
+    "insertTime": 0.015004000000772066
+  },
+  {
+    "numElements": 377186,
+    "insertTime": 0.0027109999991807854
+  },
+  {
+    "numElements": 280077,
+    "insertTime": 0.002895000001444714
+  },
+  {
+    "numElements": 383986,
+    "insertTime": 0.002710999997361796
+  },
+  {
+    "numElements": 222344,
+    "insertTime": 0.00297100000170758
+  },
+  {
+    "numElements": 957612,
+    "insertTime": 0.003346999998029787
+  },
+  {
+    "numElements": 841798,
+    "insertTime": 0.003991999998106621
+  },
+  {
+    "numElements": 458864,
+    "insertTime": 0.0029910000012023374
+  },
+  {
+    "numElements": 765744,
+    "insertTime": 0.004035999998450279
+  },
+  {
+    "numElements": 494099,
+    "insertTime": 0.0032380000011471566
+  },
+  {
+    "numElements": 69554,
+    "insertTime": 0.002820000001520384
+  },
+  {
+    "numElements": 535088,
+    "insertTime": 0.0034149999992223457
+  },
+  {
+    "numElements": 432477,
+    "insertTime": 0.0031549999985145405
+  },
+  {
+    "numElements": 485894,
+    "insertTime": 0.0032739999987825286
+  },
+  {
+    "numElements": 557035,
+    "insertTime": 0.00342100000125356
+  },
+  {
+    "numElements": 215226,
+    "insertTime": 0.003237000000808621
+  },
+  {
+    "numElements": 392520,
+    "insertTime": 0.0030650000007881317
+  },
+  {
+    "numElements": 455320,
+    "insertTime": 0.017351000002236106
+  },
+  {
+    "numElements": 17945,
+    "insertTime": 0.002767000001767883
+  },
+  {
+    "numElements": 231914,
+    "insertTime": 0.003244999999878928
+  },
+  {
+    "numElements": 237502,
+    "insertTime": 0.0031229999985953327
+  },
+  {
+    "numElements": 209157,
+    "insertTime": 0.0035789999965345487
+  },
+  {
+    "numElements": 322949,
+    "insertTime": 0.003496999997878447
+  },
+  {
+    "numElements": 1992,
+    "insertTime": 0.0011349999986123294
+  },
+  {
+    "numElements": 540772,
+    "insertTime": 0.005574000002525281
+  },
+  {
+    "numElements": 538554,
+    "insertTime": 0.0034200000009150244
+  },
+  {
+    "numElements": 926724,
+    "insertTime": 0.004139000000577653
+  },
+  {
+    "numElements": 653357,
+    "insertTime": 0.0028360000032989774
+  },
+  {
+    "numElements": 222857,
+    "insertTime": 0.00312599999961094
+  },
+  {
+    "numElements": 142964,
+    "insertTime": 0.0030309999965538736
+  },
+  {
+    "numElements": 35259,
+    "insertTime": 0.003077999997913139
+  },
+  {
+    "numElements": 907206,
+    "insertTime": 0.0033409999996365514
+  },
+  {
+    "numElements": 853713,
+    "insertTime": 0.01760899999862886
+  },
+  {
+    "numElements": 679198,
+    "insertTime": 0.0039280000019061845
+  },
+  {
+    "numElements": 889415,
+    "insertTime": 0.0038300000014714897
+  },
+  {
+    "numElements": 670025,
+    "insertTime": 0.0037080000001878943
+  },
+  {
+    "numElements": 690626,
+    "insertTime": 0.0035120000029564835
+  },
+  {
+    "numElements": 145646,
+    "insertTime": 0.0039850000030128285
+  },
+  {
+    "numElements": 625410,
+    "insertTime": 0.0036509999990812503
+  },
+  {
+    "numElements": 869718,
+    "insertTime": 0.004736999999295222
+  },
+  {
+    "numElements": 574291,
+    "insertTime": 0.0027029999982914887
+  },
+  {
+    "numElements": 254692,
+    "insertTime": 0.0029820000017934944
+  },
+  {
+    "numElements": 72500,
+    "insertTime": 0.0028270000002521556
+  },
+  {
+    "numElements": 134343,
+    "insertTime": 0.0032080000019050203
+  },
+  {
+    "numElements": 254196,
+    "insertTime": 0.002864000001864042
+  },
+  {
+    "numElements": 242102,
+    "insertTime": 0.003418000000237953
+  },
+  {
+    "numElements": 754339,
+    "insertTime": 0.0033989999974437524
+  },
+  {
+    "numElements": 728027,
+    "insertTime": 0.003612000000430271
+  },
+  {
+    "numElements": 46876,
+    "insertTime": 0.0026330000036978163
+  },
+  {
+    "numElements": 472162,
+    "insertTime": 0.002812999999150634
+  },
+  {
+    "numElements": 543839,
+    "insertTime": 0.015931000001728535
+  },
+  {
+    "numElements": 322501,
+    "insertTime": 0.003434999998717103
+  },
+  {
+    "numElements": 565106,
+    "insertTime": 0.003258999997342471
+  },
+  {
+    "numElements": 212122,
+    "insertTime": 0.002952000002551358
+  },
+  {
+    "numElements": 34454,
+    "insertTime": 0.002675999996426981
+  },
+  {
+    "numElements": 648567,
+    "insertTime": 0.004249000005074777
+  },
+  {
+    "numElements": 890815,
+    "insertTime": 0.0037460000021383166
+  },
+  {
+    "numElements": 226213,
+    "insertTime": 0.0034190000005764887
+  },
+  {
+    "numElements": 252076,
+    "insertTime": 0.003523999999742955
+  },
+  {
+    "numElements": 779656,
+    "insertTime": 0.0032370000044465996
+  },
+  {
+    "numElements": 635210,
+    "insertTime": 0.0028620000011869706
+  },
+  {
+    "numElements": 800255,
+    "insertTime": 0.003722000001289416
+  },
+  {
+    "numElements": 907853,
+    "insertTime": 0.0030760000008740462
+  },
+  {
+    "numElements": 487560,
+    "insertTime": 0.0034630000009201467
+  },
+  {
+    "numElements": 802137,
+    "insertTime": 0.003276000003097579
+  },
+  {
+    "numElements": 758592,
+    "insertTime": 0.0030120000010356307
+  },
+  {
+    "numElements": 681510,
+    "insertTime": 0.0030079999996814877
+  },
+  {
+    "numElements": 549115,
+    "insertTime": 0.0034850000010919757
+  },
+  {
+    "numElements": 278103,
+    "insertTime": 0.003303999998024665
+  },
+  {
+    "numElements": 327024,
+    "insertTime": 0.003386999997019302
+  },
+  {
+    "numElements": 248763,
+    "insertTime": 0.0030079999996814877
+  },
+  {
+    "numElements": 777922,
+    "insertTime": 0.002931000002718065
+  },
+  {
+    "numElements": 105483,
+    "insertTime": 0.011125000004540198
+  },
+  {
+    "numElements": 821943,
+    "insertTime": 0.0035090000019408762
+  },
+  {
+    "numElements": 60498,
+    "insertTime": 0.0030259999984991737
+  },
+  {
+    "numElements": 386710,
+    "insertTime": 0.002843999995093327
+  },
+  {
+    "numElements": 683804,
+    "insertTime": 0.0032340000034309924
+  },
+  {
+    "numElements": 168973,
+    "insertTime": 0.0031109999981708825
+  },
+  {
+    "numElements": 36730,
+    "insertTime": 0.0026699999943957664
+  },
+  {
+    "numElements": 904266,
+    "insertTime": 0.004262000002199784
+  },
+  {
+    "numElements": 48131,
+    "insertTime": 0.003383999996003695
+  },
+  {
+    "numElements": 306929,
+    "insertTime": 0.0035649999990710057
+  },
+  {
+    "numElements": 567323,
+    "insertTime": 0.0030299999998533167
+  },
+  {
+    "numElements": 976422,
+    "insertTime": 0.00564200000371784
+  },
+  {
+    "numElements": 156024,
+    "insertTime": 0.0030659999974886887
+  },
+  {
+    "numElements": 181891,
+    "insertTime": 0.0034910000031231903
+  },
+  {
+    "numElements": 232786,
+    "insertTime": 0.004337999998824671
+  },
+  {
+    "numElements": 191654,
+    "insertTime": 0.003294000001915265
+  },
+  {
+    "numElements": 750310,
+    "insertTime": 0.0035290000014356337
+  },
+  {
+    "numElements": 481787,
+    "insertTime": 0.003262999998696614
+  },
+  {
+    "numElements": 39131,
+    "insertTime": 0.003125000002910383
+  },
+  {
+    "numElements": 502731,
+    "insertTime": 0.003188999995472841
+  },
+  {
+    "numElements": 638615,
+    "insertTime": 0.0031819999931030907
+  },
+  {
+    "numElements": 640520,
+    "insertTime": 0.0039729999989503995
+  },
+  {
+    "numElements": 82039,
+    "insertTime": 0.004536000000371132
+  },
+  {
+    "numElements": 5430,
+    "insertTime": 0.0047630000044591725
+  },
+  {
+    "numElements": 733533,
+    "insertTime": 0.003550000001268927
+  },
+  {
+    "numElements": 177007,
+    "insertTime": 0.013050000001385342
+  },
+  {
+    "numElements": 20315,
+    "insertTime": 0.002476999994541984
+  },
+  {
+    "numElements": 505947,
+    "insertTime": 0.004053000004205387
+  },
+  {
+    "numElements": 696178,
+    "insertTime": 0.0032739999951445498
+  },
+  {
+    "numElements": 137911,
+    "insertTime": 0.0026720000023487955
+  },
+  {
+    "numElements": 330373,
+    "insertTime": 0.0032529999953112565
+  },
+  {
+    "numElements": 890580,
+    "insertTime": 0.003559999997378327
+  },
+  {
+    "numElements": 101135,
+    "insertTime": 0.0027449999979580753
+  },
+  {
+    "numElements": 245713,
+    "insertTime": 0.003404999995836988
+  },
+  {
+    "numElements": 605201,
+    "insertTime": 0.0032960000025923364
+  },
+  {
+    "numElements": 95175,
+    "insertTime": 0.0030740000001969747
+  },
+  {
+    "numElements": 953366,
+    "insertTime": 0.003205000000889413
+  },
+  {
+    "numElements": 685605,
+    "insertTime": 0.0034140000061597675
+  },
+  {
+    "numElements": 884932,
+    "insertTime": 0.003496999997878447
+  },
+  {
+    "numElements": 61328,
+    "insertTime": 0.0028440000023692846
+  },
+  {
+    "numElements": 604442,
+    "insertTime": 0.002989000000525266
+  },
+  {
+    "numElements": 754619,
+    "insertTime": 0.0034070000037900172
+  },
+  {
+    "numElements": 958300,
+    "insertTime": 0.016859999996086117
+  },
+  {
+    "numElements": 672048,
+    "insertTime": 0.0032659999997122213
+  },
+  {
+    "numElements": 204217,
+    "insertTime": 0.003337000001920387
+  },
+  {
+    "numElements": 629000,
+    "insertTime": 0.003346999998029787
+  },
+  {
+    "numElements": 593244,
+    "insertTime": 0.003628000005846843
+  },
+  {
+    "numElements": 895485,
+    "insertTime": 0.003412999998545274
+  },
+  {
+    "numElements": 845773,
+    "insertTime": 0.003958000001148321
+  },
+  {
+    "numElements": 529300,
+    "insertTime": 0.0038359999962267466
+  },
+  {
+    "numElements": 418087,
+    "insertTime": 0.003851000001304783
+  },
+  {
+    "numElements": 757779,
+    "insertTime": 0.0035910000005969778
+  },
+  {
+    "numElements": 873530,
+    "insertTime": 0.0038970000023255125
+  },
+  {
+    "numElements": 283048,
+    "insertTime": 0.007958000001963228
+  },
+  {
+    "numElements": 745080,
+    "insertTime": 0.0030790000018896535
+  },
+  {
+    "numElements": 603406,
+    "insertTime": 0.0039010000036796555
+  },
+  {
+    "numElements": 221269,
+    "insertTime": 0.0035839999982272275
+  },
+  {
+    "numElements": 518727,
+    "insertTime": 0.003297000002930872
+  },
+  {
+    "numElements": 271747,
+    "insertTime": 0.0030719999922439456
+  },
+  {
+    "numElements": 102691,
+    "insertTime": 0.00509299999976065
+  },
+  {
+    "numElements": 175046,
+    "insertTime": 0.0028660000098170713
+  },
+  {
+    "numElements": 286258,
+    "insertTime": 0.003416999999899417
+  },
+  {
+    "numElements": 968141,
+    "insertTime": 0.016526000006706454
+  },
+  {
+    "numElements": 95937,
+    "insertTime": 0.0029150000045774505
+  },
+  {
+    "numElements": 110869,
+    "insertTime": 0.003028000006452203
+  },
+  {
+    "numElements": 690070,
+    "insertTime": 0.003640999988419935
+  },
+  {
+    "numElements": 738437,
+    "insertTime": 0.003028999999514781
+  },
+  {
+    "numElements": 413286,
+    "insertTime": 0.0035970000026281923
+  },
+  {
+    "numElements": 808235,
+    "insertTime": 0.0029230000072857365
+  },
+  {
+    "numElements": 360305,
+    "insertTime": 0.002832000012858771
+  },
+  {
+    "numElements": 715324,
+    "insertTime": 0.00374700000975281
+  },
+  {
+    "numElements": 232067,
+    "insertTime": 0.0031509999971603975
+  },
+  {
+    "numElements": 478361,
+    "insertTime": 0.0030620000034105033
+  },
+  {
+    "numElements": 277142,
+    "insertTime": 0.002890000003390014
+  },
+  {
+    "numElements": 231960,
+    "insertTime": 0.003408000004128553
+  },
+  {
+    "numElements": 647633,
+    "insertTime": 0.0033930000063264742
+  },
+  {
+    "numElements": 410472,
+    "insertTime": 0.004079999998793937
+  },
+  {
+    "numElements": 671103,
+    "insertTime": 0.014880000002449378
+  },
+  {
+    "numElements": 278388,
+    "insertTime": 0.0029829999984940514
+  },
+  {
+    "numElements": 474601,
+    "insertTime": 0.004341000007116236
+  },
+  {
+    "numElements": 570739,
+    "insertTime": 0.0038779999886173755
+  },
+  {
+    "numElements": 665174,
+    "insertTime": 0.003916999994544312
+  },
+  {
+    "numElements": 884610,
+    "insertTime": 0.0037690000026486814
+  },
+  {
+    "numElements": 620682,
+    "insertTime": 0.004314999998314306
+  },
+  {
+    "numElements": 103029,
+    "insertTime": 0.004024000008939765
+  },
+  {
+    "numElements": 109395,
+    "insertTime": 0.007073000000673346
+  },
+  {
+    "numElements": 185304,
+    "insertTime": 0.0036249999975552782
+  },
+  {
+    "numElements": 647101,
+    "insertTime": 0.00424399999610614
+  },
+  {
+    "numElements": 283815,
+    "insertTime": 0.005346999998437241
+  },
+  {
+    "numElements": 635292,
+    "insertTime": 0.003268000000389293
+  },
+  {
+    "numElements": 420733,
+    "insertTime": 0.003408999997191131
+  },
+  {
+    "numElements": 618374,
+    "insertTime": 0.0035860000061802566
+  },
+  {
+    "numElements": 582614,
+    "insertTime": 0.0047590000031050295
+  },
+  {
+    "numElements": 890882,
+    "insertTime": 0.004834000006667338
+  },
+  {
+    "numElements": 144588,
+    "insertTime": 0.005207000009249896
+  },
+  {
+    "numElements": 296935,
+    "insertTime": 0.003293000001576729
+  },
+  {
+    "numElements": 484020,
+    "insertTime": 0.003671999991638586
+  },
+  {
+    "numElements": 226302,
+    "insertTime": 0.003916999994544312
+  },
+  {
+    "numElements": 467755,
+    "insertTime": 0.0034069999965140596
+  },
+  {
+    "numElements": 935710,
+    "insertTime": 0.0037540000048466027
+  },
+  {
+    "numElements": 6288,
+    "insertTime": 0.0011420000082580373
+  },
+  {
+    "numElements": 612969,
+    "insertTime": 0.004302000001189299
+  },
+  {
+    "numElements": 184875,
+    "insertTime": 0.0026729999954113737
+  },
+  {
+    "numElements": 169237,
+    "insertTime": 0.002559000000474043
+  },
+  {
+    "numElements": 479860,
+    "insertTime": 0.002666999993380159
+  },
+  {
+    "numElements": 861745,
+    "insertTime": 0.00326399999903515
+  },
+  {
+    "numElements": 891045,
+    "insertTime": 0.003958000001148321
+  },
+  {
+    "numElements": 194441,
+    "insertTime": 0.002821999994921498
+  },
+  {
+    "numElements": 971181,
+    "insertTime": 0.016560000003664754
+  },
+  {
+    "numElements": 884624,
+    "insertTime": 0.0038460000068880618
+  },
+  {
+    "numElements": 248935,
+    "insertTime": 0.003632000007200986
+  },
+  {
+    "numElements": 906469,
+    "insertTime": 0.004514999993261881
+  },
+  {
+    "numElements": 584876,
+    "insertTime": 0.0035650000063469633
+  },
+  {
+    "numElements": 445342,
+    "insertTime": 0.0034460000024409965
+  },
+  {
+    "numElements": 440574,
+    "insertTime": 0.0032350000110454857
+  },
+  {
+    "numElements": 746982,
+    "insertTime": 0.002965000006952323
+  },
+  {
+    "numElements": 307801,
+    "insertTime": 0.006175999995321035
+  },
+  {
+    "numElements": 586960,
+    "insertTime": 0.005955000000540167
+  },
+  {
+    "numElements": 854008,
+    "insertTime": 0.04793100000824779
+  },
+  {
+    "numElements": 424642,
+    "insertTime": 0.002885000008973293
+  },
+  {
+    "numElements": 249951,
+    "insertTime": 0.0029199999989941716
+  },
+  {
+    "numElements": 548648,
+    "insertTime": 0.0035290000087115914
+  },
+  {
+    "numElements": 709732,
+    "insertTime": 0.0032070000015664846
+  },
+  {
+    "numElements": 852557,
+    "insertTime": 0.004075000004377216
+  },
+  {
+    "numElements": 911228,
+    "insertTime": 0.0028800000000046566
+  },
+  {
+    "numElements": 247644,
+    "insertTime": 0.0028809999930672348
+  },
+  {
+    "numElements": 48638,
+    "insertTime": 0.002230999991297722
+  },
+  {
+    "numElements": 462283,
+    "insertTime": 0.0027400000108173117
+  },
+  {
+    "numElements": 228336,
+    "insertTime": 0.0034949999972013757
+  },
+  {
+    "numElements": 119958,
+    "insertTime": 0.0029400000057648867
+  },
+  {
+    "numElements": 40945,
+    "insertTime": 0.0030399999959627166
+  },
+  {
+    "numElements": 695689,
+    "insertTime": 0.002973000009660609
+  },
+  {
+    "numElements": 459028,
+    "insertTime": 0.003108000004431233
+  },
+  {
+    "numElements": 891180,
+    "insertTime": 0.0031060000037541613
+  },
+  {
+    "numElements": 740983,
+    "insertTime": 0.0032590000046184286
+  },
+  {
+    "numElements": 458337,
+    "insertTime": 0.003010000000358559
+  },
+  {
+    "numElements": 288530,
+    "insertTime": 0.0030109999934211373
+  },
+  {
+    "numElements": 801409,
+    "insertTime": 0.0028109999984735623
+  },
+  {
+    "numElements": 819446,
+    "insertTime": 0.003364000003784895
+  },
+  {
+    "numElements": 734773,
+    "insertTime": 0.016465000007883646
+  },
+  {
+    "numElements": 790250,
+    "insertTime": 0.0031949999975040555
+  },
+  {
+    "numElements": 826570,
+    "insertTime": 0.003444000001763925
+  },
+  {
+    "numElements": 748311,
+    "insertTime": 0.003036000009160489
+  },
+  {
+    "numElements": 148924,
+    "insertTime": 0.003072999999858439
+  },
+  {
+    "numElements": 555322,
+    "insertTime": 0.0032420000061392784
+  },
+  {
+    "numElements": 699003,
+    "insertTime": 0.0038860000058775768
+  },
+  {
+    "numElements": 86176,
+    "insertTime": 0.0026199999992968515
+  },
+  {
+    "numElements": 917424,
+    "insertTime": 0.0035730000090552494
+  },
+  {
+    "numElements": 293717,
+    "insertTime": 0.0024279999925056472
+  },
+  {
+    "numElements": 171487,
+    "insertTime": 0.003144999995129183
+  },
+  {
+    "numElements": 57915,
+    "insertTime": 0.00258100000792183
+  },
+  {
+    "numElements": 972162,
+    "insertTime": 0.002674999996088445
+  },
+  {
+    "numElements": 463364,
+    "insertTime": 0.0032939999946393073
+  },
+  {
+    "numElements": 756797,
+    "insertTime": 0.0035829999978886917
+  },
+  {
+    "numElements": 236503,
+    "insertTime": 0.003328999999212101
+  },
+  {
+    "numElements": 596001,
+    "insertTime": 0.01306700000714045
+  },
+  {
+    "numElements": 538260,
+    "insertTime": 0.0030910000059520826
+  },
+  {
+    "numElements": 895927,
+    "insertTime": 0.003456999998888932
+  },
+  {
+    "numElements": 152472,
+    "insertTime": 0.003133000005618669
+  },
+  {
+    "numElements": 798976,
+    "insertTime": 0.00344700001005549
+  },
+  {
+    "numElements": 667914,
+    "insertTime": 0.0027840000111609697
+  },
+  {
+    "numElements": 998078,
+    "insertTime": 0.0031509999971603975
+  },
+  {
+    "numElements": 124982,
+    "insertTime": 0.003216999990399927
+  },
+  {
+    "numElements": 335933,
+    "insertTime": 0.0027470000059111044
+  },
+  {
+    "numElements": 19502,
+    "insertTime": 0.002279000007547438
+  },
+  {
+    "numElements": 308150,
+    "insertTime": 0.003396000000066124
+  },
+  {
+    "numElements": 265531,
+    "insertTime": 0.0025600000080885366
+  },
+  {
+    "numElements": 126376,
+    "insertTime": 0.002993999994941987
+  },
+  {
+    "numElements": 479350,
+    "insertTime": 0.0028600000077858567
+  },
+  {
+    "numElements": 989193,
+    "insertTime": 0.0038730000087525696
+  },
+  {
+    "numElements": 532720,
+    "insertTime": 0.0034739999973680824
+  },
+  {
+    "numElements": 737487,
+    "insertTime": 0.014957000006688759
+  },
+  {
+    "numElements": 160364,
+    "insertTime": 0.0032749999954830855
+  },
+  {
+    "numElements": 684770,
+    "insertTime": 0.003488000002107583
+  },
+  {
+    "numElements": 820403,
+    "insertTime": 0.003124000009847805
+  },
+  {
+    "numElements": 399465,
+    "insertTime": 0.003014000001712702
+  },
+  {
+    "numElements": 122311,
+    "insertTime": 0.002885999987483956
+  },
+  {
+    "numElements": 422676,
+    "insertTime": 0.0035620000126073137
+  },
+  {
+    "numElements": 335597,
+    "insertTime": 0.002877999999327585
+  },
+  {
+    "numElements": 175573,
+    "insertTime": 0.0024490000068908557
+  },
+  {
+    "numElements": 405147,
+    "insertTime": 0.002713000008952804
+  },
+  {
+    "numElements": 898369,
+    "insertTime": 0.0032359999895561486
+  },
+  {
+    "numElements": 725816,
+    "insertTime": 0.0034059999888995662
+  },
+  {
+    "numElements": 283324,
+    "insertTime": 0.0034109999978682026
+  },
+  {
+    "numElements": 303419,
+    "insertTime": 0.0027060000138590112
+  },
+  {
+    "numElements": 68042,
+    "insertTime": 0.0027510000072652474
+  },
+  {
+    "numElements": 694429,
+    "insertTime": 0.002877999999327585
+  },
+  {
+    "numElements": 504441,
+    "insertTime": 0.003033000000868924
+  },
+  {
+    "numElements": 759347,
+    "insertTime": 0.002936999997473322
+  },
+  {
+    "numElements": 582106,
+    "insertTime": 0.003572000001440756
+  },
+  {
+    "numElements": 354850,
+    "insertTime": 0.0034130000130971894
+  },
+  {
+    "numElements": 852052,
+    "insertTime": 0.015455000000656582
+  },
+  {
+    "numElements": 895677,
+    "insertTime": 0.0024759999942034483
+  },
+  {
+    "numElements": 406214,
+    "insertTime": 0.003072000006795861
+  },
+  {
+    "numElements": 963577,
+    "insertTime": 0.0027609999960986897
+  },
+  {
+    "numElements": 405372,
+    "insertTime": 0.00320099999953527
+  },
+  {
+    "numElements": 323577,
+    "insertTime": 0.0028559999918797985
+  },
+  {
+    "numElements": 480549,
+    "insertTime": 0.002757000009296462
+  },
+  {
+    "numElements": 35309,
+    "insertTime": 0.0024209999974118546
+  },
+  {
+    "numElements": 252604,
+    "insertTime": 0.003152000004774891
+  },
+  {
+    "numElements": 188365,
+    "insertTime": 0.0027919999993173406
+  },
+  {
+    "numElements": 291284,
+    "insertTime": 0.00334100000327453
+  },
+  {
+    "numElements": 878899,
+    "insertTime": 0.016027999998186715
+  },
+  {
+    "numElements": 890921,
+    "insertTime": 0.003096999993431382
+  },
+  {
+    "numElements": 925415,
+    "insertTime": 0.0031079999898793176
+  },
+  {
+    "numElements": 340543,
+    "insertTime": 0.002777000001515262
+  },
+  {
+    "numElements": 852538,
+    "insertTime": 0.004522999995970167
+  },
+  {
+    "numElements": 967068,
+    "insertTime": 0.0033970000076806173
+  },
+  {
+    "numElements": 734196,
+    "insertTime": 0.0028840000013587996
+  },
+  {
+    "numElements": 22465,
+    "insertTime": 0.0022409999946830794
+  },
+  {
+    "numElements": 138931,
+    "insertTime": 0.002837000007275492
+  },
+  {
+    "numElements": 879153,
+    "insertTime": 0.003240000005462207
+  },
+  {
+    "numElements": 859194,
+    "insertTime": 0.0031559999915771186
+  },
+  {
+    "numElements": 143230,
+    "insertTime": 0.003136999992420897
+  },
+  {
+    "numElements": 418363,
+    "insertTime": 0.0031540000054519624
+  },
+  {
+    "numElements": 184617,
+    "insertTime": 0.0029030000005150214
+  },
+  {
+    "numElements": 787193,
+    "insertTime": 0.019631000002846122
+  },
+  {
+    "numElements": 623200,
+    "insertTime": 0.003351000021211803
+  },
+  {
+    "numElements": 395322,
+    "insertTime": 0.002714999980526045
+  },
+  {
+    "numElements": 653263,
+    "insertTime": 0.002865999995265156
+  },
+  {
+    "numElements": 776059,
+    "insertTime": 0.0037420000007841736
+  },
+  {
+    "numElements": 715821,
+    "insertTime": 0.0030510000069625676
+  },
+  {
+    "numElements": 821462,
+    "insertTime": 0.0025280000118073076
+  },
+  {
+    "numElements": 254659,
+    "insertTime": 0.002913999982411042
+  },
+  {
+    "numElements": 242900,
+    "insertTime": 0.0032340000034309924
+  },
+  {
+    "numElements": 512067,
+    "insertTime": 0.003033999993931502
+  },
+  {
+    "numElements": 430983,
+    "insertTime": 0.0031549999839626253
+  },
+  {
+    "numElements": 948474,
+    "insertTime": 0.0028750000055879354
+  },
+  {
+    "numElements": 559007,
+    "insertTime": 0.0035970000026281923
+  },
+  {
+    "numElements": 3680,
+    "insertTime": 0.002072999981464818
+  },
+  {
+    "numElements": 680377,
+    "insertTime": 0.01969799998914823
+  },
+  {
+    "numElements": 406508,
+    "insertTime": 0.0036170000093989074
+  },
+  {
+    "numElements": 90832,
+    "insertTime": 0.0036240000044927
+  },
+  {
+    "numElements": 468908,
+    "insertTime": 0.004129000008106232
+  },
+  {
+    "numElements": 490754,
+    "insertTime": 0.004803999996511266
+  },
+  {
+    "numElements": 676313,
+    "insertTime": 0.0042489999905228615
+  },
+  {
+    "numElements": 650330,
+    "insertTime": 0.004533999977866188
+  },
+  {
+    "numElements": 207721,
+    "insertTime": 0.005067999998573214
+  },
+  {
+    "numElements": 501435,
+    "insertTime": 0.003726000024471432
+  },
+  {
+    "numElements": 425372,
+    "insertTime": 0.0032349999819416553
+  },
+  {
+    "numElements": 581415,
+    "insertTime": 0.004528000019490719
+  },
+  {
+    "numElements": 450734,
+    "insertTime": 0.003735000005690381
+  },
+  {
+    "numElements": 339121,
+    "insertTime": 0.017113000008976087
+  },
+  {
+    "numElements": 315997,
+    "insertTime": 0.0028520000050775707
+  },
+  {
+    "numElements": 598756,
+    "insertTime": 0.0035180000122636557
+  },
+  {
+    "numElements": 109466,
+    "insertTime": 0.0029529999883379787
+  },
+  {
+    "numElements": 525081,
+    "insertTime": 0.0029900000081397593
+  },
+  {
+    "numElements": 448679,
+    "insertTime": 0.003687999997055158
+  },
+  {
+    "numElements": 233878,
+    "insertTime": 0.0027430000191088766
+  },
+  {
+    "numElements": 780443,
+    "insertTime": 0.003669999976409599
+  },
+  {
+    "numElements": 477022,
+    "insertTime": 0.0028260000108275563
+  },
+  {
+    "numElements": 540160,
+    "insertTime": 0.003962000017054379
+  },
+  {
+    "numElements": 354784,
+    "insertTime": 0.0034490000107325613
+  },
+  {
+    "numElements": 313087,
+    "insertTime": 0.0035760000173468143
+  },
+  {
+    "numElements": 396801,
+    "insertTime": 0.0037560000200755894
+  },
+  {
+    "numElements": 459247,
+    "insertTime": 0.00358700001379475
+  },
+  {
+    "numElements": 57818,
+    "insertTime": 0.012051999976392835
+  },
+  {
+    "numElements": 343933,
+    "insertTime": 0.004086000000825152
+  },
+  {
+    "numElements": 526809,
+    "insertTime": 0.0035860000061802566
+  },
+  {
+    "numElements": 274891,
+    "insertTime": 0.003247000015107915
+  },
+  {
+    "numElements": 456361,
+    "insertTime": 0.0033870000042952597
+  },
+  {
+    "numElements": 110808,
+    "insertTime": 0.004398999997647479
+  },
+  {
+    "numElements": 897811,
+    "insertTime": 0.0034930000256281346
+  },
+  {
+    "numElements": 854256,
+    "insertTime": 0.0032950000022538006
+  },
+  {
+    "numElements": 928851,
+    "insertTime": 0.0035130000032950193
+  },
+  {
+    "numElements": 364107,
+    "insertTime": 0.0033530000073369592
+  },
+  {
+    "numElements": 324132,
+    "insertTime": 0.003045999997993931
+  },
+  {
+    "numElements": 481670,
+    "insertTime": 0.004127000021981075
+  },
+  {
+    "numElements": 145914,
+    "insertTime": 0.0029079999949317425
+  },
+  {
+    "numElements": 541402,
+    "insertTime": 0.003468000009888783
+  },
+  {
+    "numElements": 616682,
+    "insertTime": 0.0034949999826494604
+  },
+  {
+    "numElements": 389750,
+    "insertTime": 0.003015000023879111
+  },
+  {
+    "numElements": 355161,
+    "insertTime": 0.0031709999893791974
+  },
+  {
+    "numElements": 625692,
+    "insertTime": 0.019113000016659498
+  },
+  {
+    "numElements": 812806,
+    "insertTime": 0.0031789999920874834
+  },
+  {
+    "numElements": 673978,
+    "insertTime": 0.0027609999815467745
+  },
+  {
+    "numElements": 988888,
+    "insertTime": 0.003240000020014122
+  },
+  {
+    "numElements": 274011,
+    "insertTime": 0.0032010000140871853
+  },
+  {
+    "numElements": 951288,
+    "insertTime": 0.003404999995836988
+  },
+  {
+    "numElements": 382978,
+    "insertTime": 0.0030239999759942293
+  },
+  {
+    "numElements": 560564,
+    "insertTime": 0.002818999986629933
+  },
+  {
+    "numElements": 977463,
+    "insertTime": 0.0037059999885968864
+  },
+  {
+    "numElements": 608159,
+    "insertTime": 0.0032270000083371997
+  },
+  {
+    "numElements": 8612,
+    "insertTime": 0.0019349999784026295
+  },
+  {
+    "numElements": 305916,
+    "insertTime": 0.0029839999915566295
+  },
+  {
+    "numElements": 429979,
+    "insertTime": 0.005482999986270443
+  },
+  {
+    "numElements": 232815,
+    "insertTime": 0.022886999999172986
+  },
+  {
+    "numElements": 516080,
+    "insertTime": 0.003324999997857958
+  },
+  {
+    "numElements": 705442,
+    "insertTime": 0.0033610000100452453
+  },
+  {
+    "numElements": 622982,
+    "insertTime": 0.002960000012535602
+  },
+  {
+    "numElements": 996152,
+    "insertTime": 0.0034759999834932387
+  },
+  {
+    "numElements": 152490,
+    "insertTime": 0.002566000010119751
+  },
+  {
+    "numElements": 182,
+    "insertTime": 0.0010809999948833138
+  },
+  {
+    "numElements": 810181,
+    "insertTime": 0.0032389999832957983
+  },
+  {
+    "numElements": 43784,
+    "insertTime": 0.0025690000038594007
+  },
+  {
+    "numElements": 175206,
+    "insertTime": 0.0027950000076089054
+  },
+  {
+    "numElements": 96335,
+    "insertTime": 0.0027520000003278255
+  },
+  {
+    "numElements": 373064,
+    "insertTime": 0.0030900000128895044
+  },
+  {
+    "numElements": 219283,
+    "insertTime": 0.0035700000007636845
+  },
+  {
+    "numElements": 960010,
+    "insertTime": 0.014916999993147328
+  },
+  {
+    "numElements": 903487,
+    "insertTime": 0.003112000005785376
+  },
+  {
+    "numElements": 687095,
+    "insertTime": 0.0028440000023692846
+  },
+  {
+    "numElements": 580080,
+    "insertTime": 0.003117999993264675
+  },
+  {
+    "numElements": 916389,
+    "insertTime": 0.0035840000200551003
+  },
+  {
+    "numElements": 197275,
+    "insertTime": 0.0032580000115558505
+  },
+  {
+    "numElements": 707612,
+    "insertTime": 0.002976999996462837
+  },
+  {
+    "numElements": 928710,
+    "insertTime": 0.003835999988950789
+  },
+  {
+    "numElements": 113421,
+    "insertTime": 0.0026710000238381326
+  },
+  {
+    "numElements": 519500,
+    "insertTime": 0.0029759999888483435
+  },
+  {
+    "numElements": 465847,
+    "insertTime": 0.0029510000022128224
+  },
+  {
+    "numElements": 327160,
+    "insertTime": 0.0033490000059828162
+  },
+  {
+    "numElements": 588741,
+    "insertTime": 0.00325799998245202
+  },
+  {
+    "numElements": 976852,
+    "insertTime": 0.003579000011086464
+  },
+  {
+    "numElements": 897098,
+    "insertTime": 0.0032740000169724226
+  },
+  {
+    "numElements": 739997,
+    "insertTime": 0.0031380000000353903
+  },
+  {
+    "numElements": 195032,
+    "insertTime": 0.0028500000189524144
+  },
+  {
+    "numElements": 830294,
+    "insertTime": 0.003492999996524304
+  },
+  {
+    "numElements": 84507,
+    "insertTime": 0.003167000017128885
+  },
+  {
+    "numElements": 849195,
+    "insertTime": 0.0035379999899305403
+  },
+  {
+    "numElements": 722674,
+    "insertTime": 0.0031000000017229468
+  },
+  {
+    "numElements": 879369,
+    "insertTime": 0.003399000008357689
+  },
+  {
+    "numElements": 299797,
+    "insertTime": 0.003316000016639009
+  },
+  {
+    "numElements": 722093,
+    "insertTime": 0.0033059999987017363
+  },
+  {
+    "numElements": 289886,
+    "insertTime": 0.002790999977150932
+  },
+  {
+    "numElements": 667883,
+    "insertTime": 0.0031869999947957695
+  },
+  {
+    "numElements": 248472,
+    "insertTime": 0.002841000008629635
+  },
+  {
+    "numElements": 12338,
+    "insertTime": 0.0022319999989122152
+  },
+  {
+    "numElements": 674759,
+    "insertTime": 0.003579999989597127
+  },
+  {
+    "numElements": 562843,
+    "insertTime": 0.01831099999253638
+  },
+  {
+    "numElements": 822070,
+    "insertTime": 0.002990999986650422
+  },
+  {
+    "numElements": 36558,
+    "insertTime": 0.0020280000171624124
+  },
+  {
+    "numElements": 288667,
+    "insertTime": 0.0030199999746400863
+  },
+  {
+    "numElements": 866060,
+    "insertTime": 0.0035389999975450337
+  },
+  {
+    "numElements": 356009,
+    "insertTime": 0.0036370000161696225
+  },
+  {
+    "numElements": 191089,
+    "insertTime": 0.003073999978369102
+  },
+  {
+    "numElements": 442678,
+    "insertTime": 0.0035700000007636845
+  },
+  {
+    "numElements": 306912,
+    "insertTime": 0.0030749999859835953
+  },
+  {
+    "numElements": 628068,
+    "insertTime": 0.0031549999839626253
+  },
+  {
+    "numElements": 887415,
+    "insertTime": 0.003429999982472509
+  },
+  {
+    "numElements": 191625,
+    "insertTime": 0.002845999988494441
+  },
+  {
+    "numElements": 425955,
+    "insertTime": 0.0027319999935571104
+  },
+  {
+    "numElements": 306638,
+    "insertTime": 0.0028489999822340906
+  },
+  {
+    "numElements": 317310,
+    "insertTime": 0.0032060000230558217
+  },
+  {
+    "numElements": 660990,
+    "insertTime": 0.0032469999860040843
+  },
+  {
+    "numElements": 794667,
+    "insertTime": 0.0035300000163260847
+  },
+  {
+    "numElements": 234224,
+    "insertTime": 0.003092000028118491
+  },
+  {
+    "numElements": 508210,
+    "insertTime": 0.0030140000162646174
+  },
+  {
+    "numElements": 923191,
+    "insertTime": 0.01606500000343658
+  },
+  {
+    "numElements": 531977,
+    "insertTime": 0.0028509999974630773
+  },
+  {
+    "numElements": 147831,
+    "insertTime": 0.003105999989202246
+  },
+  {
+    "numElements": 608571,
+    "insertTime": 0.003196999983629212
+  },
+  {
+    "numElements": 953378,
+    "insertTime": 0.004044000001158565
+  },
+  {
+    "numElements": 163118,
+    "insertTime": 0.0031729999755043536
+  },
+  {
+    "numElements": 67564,
+    "insertTime": 0.0031060000183060765
+  },
+  {
+    "numElements": 90197,
+    "insertTime": 0.003364000003784895
+  },
+  {
+    "numElements": 466976,
+    "insertTime": 0.0030470000056084245
+  },
+  {
+    "numElements": 65474,
+    "insertTime": 0.003077000001212582
+  },
+  {
+    "numElements": 95568,
+    "insertTime": 0.0029429999995045364
+  },
+  {
+    "numElements": 627084,
+    "insertTime": 0.0035820000048261136
+  },
+  {
+    "numElements": 230985,
+    "insertTime": 0.0029110000177752227
+  },
+  {
+    "numElements": 678712,
+    "insertTime": 0.0029349999967962503
+  },
+  {
+    "numElements": 689040,
+    "insertTime": 0.0034309999900870025
+  },
+  {
+    "numElements": 584069,
+    "insertTime": 0.0030660000047646463
+  },
+  {
+    "numElements": 395753,
+    "insertTime": 0.0039450000040233135
+  },
+  {
+    "numElements": 20191,
+    "insertTime": 0.003999000007752329
+  },
+  {
+    "numElements": 451761,
+    "insertTime": 0.0032260000007227063
+  },
+  {
+    "numElements": 22240,
+    "insertTime": 0.0029429999995045364
+  },
+  {
+    "numElements": 817546,
+    "insertTime": 0.015734999993583187
+  },
+  {
+    "numElements": 796234,
+    "insertTime": 0.002905000001192093
+  },
+  {
+    "numElements": 812251,
+    "insertTime": 0.002622999978484586
+  },
+  {
+    "numElements": 637095,
+    "insertTime": 0.0032039999787230045
+  },
+  {
+    "numElements": 41510,
+    "insertTime": 0.0027919999847654253
+  },
+  {
+    "numElements": 993137,
+    "insertTime": 0.0033490000059828162
+  },
+  {
+    "numElements": 15346,
+    "insertTime": 0.0020989999757148325
+  },
+  {
+    "numElements": 968795,
+    "insertTime": 0.003400999994482845
+  },
+  {
+    "numElements": 322837,
+    "insertTime": 0.0031479999888688326
+  },
+  {
+    "numElements": 121544,
+    "insertTime": 0.002550000004703179
+  },
+  {
+    "numElements": 981699,
+    "insertTime": 0.003296000009868294
+  },
+  {
+    "numElements": 81877,
+    "insertTime": 0.002726000006077811
+  },
+  {
+    "numElements": 258371,
+    "insertTime": 0.0026659999857656658
+  },
+  {
+    "numElements": 685428,
+    "insertTime": 0.002738999988650903
+  },
+  {
+    "numElements": 919296,
+    "insertTime": 0.01685200000065379
+  },
+  {
+    "numElements": 335267,
+    "insertTime": 0.002961999998660758
+  },
+  {
+    "numElements": 947093,
+    "insertTime": 0.0030789999873377383
+  },
+  {
+    "numElements": 550110,
+    "insertTime": 0.003116000007139519
+  },
+  {
+    "numElements": 867689,
+    "insertTime": 0.0033509999921079725
+  },
+  {
+    "numElements": 930200,
+    "insertTime": 0.0035579999967012554
+  },
+  {
+    "numElements": 643680,
+    "insertTime": 0.0033480000274721533
+  },
+  {
+    "numElements": 622028,
+    "insertTime": 0.003222999977879226
+  },
+  {
+    "numElements": 685376,
+    "insertTime": 0.00306099999579601
+  },
+  {
+    "numElements": 961580,
+    "insertTime": 0.003788000001804903
+  },
+  {
+    "numElements": 698770,
+    "insertTime": 0.002976999996462837
+  },
+  {
+    "numElements": 749820,
+    "insertTime": 0.00310100000933744
+  },
+  {
+    "numElements": 442619,
+    "insertTime": 0.002757999987807125
+  },
+  {
+    "numElements": 311844,
+    "insertTime": 0.01734500000020489
+  },
+  {
+    "numElements": 677997,
+    "insertTime": 0.003695000021252781
+  },
+  {
+    "numElements": 480809,
+    "insertTime": 0.0029349999967962503
+  },
+  {
+    "numElements": 570361,
+    "insertTime": 0.0030829999886918813
+  },
+  {
+    "numElements": 431695,
+    "insertTime": 0.003269000008003786
+  },
+  {
+    "numElements": 732080,
+    "insertTime": 0.005528999987291172
+  },
+  {
+    "numElements": 502363,
+    "insertTime": 0.0036890000046696514
+  },
+  {
+    "numElements": 903965,
+    "insertTime": 0.0028599999786820263
+  },
+  {
+    "numElements": 839806,
+    "insertTime": 0.004039999999804422
+  },
+  {
+    "numElements": 106041,
+    "insertTime": 0.0032159999827854335
+  },
+  {
+    "numElements": 462728,
+    "insertTime": 0.0031869999947957695
+  },
+  {
+    "numElements": 887433,
+    "insertTime": 0.0031799999997019768
+  },
+  {
+    "numElements": 106856,
+    "insertTime": 0.002736000024015084
+  },
+  {
+    "numElements": 276737,
+    "insertTime": 0.0035619999980553985
+  },
+  {
+    "numElements": 102568,
+    "insertTime": 0.0032310000096913427
+  },
+  {
+    "numElements": 351408,
+    "insertTime": 0.0029679999861400574
+  },
+  {
+    "numElements": 747933,
+    "insertTime": 0.016919000016059726
+  },
+  {
+    "numElements": 810940,
+    "insertTime": 0.003647000005003065
+  },
+  {
+    "numElements": 51798,
+    "insertTime": 0.0022729999909643084
+  },
+  {
+    "numElements": 597242,
+    "insertTime": 0.003353999985847622
+  },
+  {
+    "numElements": 562072,
+    "insertTime": 0.003089000005275011
+  },
+  {
+    "numElements": 113316,
+    "insertTime": 0.003247000015107915
+  },
+  {
+    "numElements": 958278,
+    "insertTime": 0.0032269999792333692
+  },
+  {
+    "numElements": 913190,
+    "insertTime": 0.002913000003900379
+  },
+  {
+    "numElements": 267608,
+    "insertTime": 0.0028509999974630773
+  },
+  {
+    "numElements": 719334,
+    "insertTime": 0.0027399999962653965
+  },
+  {
+    "numElements": 662487,
+    "insertTime": 0.0036050000053364784
+  },
+  {
+    "numElements": 522363,
+    "insertTime": 0.0024839999969117343
+  },
+  {
+    "numElements": 941408,
+    "insertTime": 0.0033779999939724803
+  },
+  {
+    "numElements": 709340,
+    "insertTime": 0.00245499997981824
+  },
+  {
+    "numElements": 259318,
+    "insertTime": 0.00305499997921288
+  },
+  {
+    "numElements": 972893,
+    "insertTime": 0.01567100000102073
+  },
+  {
+    "numElements": 358996,
+    "insertTime": 0.0027929999923799187
+  },
+  {
+    "numElements": 609994,
+    "insertTime": 0.0033870000042952597
+  },
+  {
+    "numElements": 763607,
+    "insertTime": 0.0035380000190343708
+  },
+  {
+    "numElements": 475176,
+    "insertTime": 0.0029510000022128224
+  },
+  {
+    "numElements": 729827,
+    "insertTime": 0.0032010000140871853
+  },
+  {
+    "numElements": 536299,
+    "insertTime": 0.0030960000003688037
+  },
+  {
+    "numElements": 824333,
+    "insertTime": 0.002894000004744157
+  },
+  {
+    "numElements": 136184,
+    "insertTime": 0.0029470000008586794
+  },
+  {
+    "numElements": 135971,
+    "insertTime": 0.0027589999954216182
+  },
+  {
+    "numElements": 972324,
+    "insertTime": 0.0033679999760352075
+  },
+  {
+    "numElements": 153842,
+    "insertTime": 0.0030269999988377094
+  },
+  {
+    "numElements": 822404,
+    "insertTime": 0.002872000011848286
+  },
+  {
+    "numElements": 360921,
+    "insertTime": 0.0034619999933056533
+  },
+  {
+    "numElements": 894083,
+    "insertTime": 0.00386699999216944
+  },
+  {
+    "numElements": 25298,
+    "insertTime": 0.0018320000090170652
+  },
+  {
+    "numElements": 253299,
+    "insertTime": 0.003085000003920868
+  },
+  {
+    "numElements": 825686,
+    "insertTime": 0.0031190000008791685
+  },
+  {
+    "numElements": 288909,
+    "insertTime": 0.003148999996483326
+  },
+  {
+    "numElements": 485024,
+    "insertTime": 0.0033110000076703727
+  },
+  {
+    "numElements": 892669,
+    "insertTime": 0.003236999997170642
+  },
+  {
+    "numElements": 964652,
+    "insertTime": 0.0027760000084526837
+  },
+  {
+    "numElements": 168718,
+    "insertTime": 0.002898999984608963
+  },
+  {
+    "numElements": 116622,
+    "insertTime": 0.002802000002702698
+  },
+  {
+    "numElements": 707969,
+    "insertTime": 0.0029269999940879643
+  },
+  {
+    "numElements": 952153,
+    "insertTime": 0.0031420000013895333
+  },
+  {
+    "numElements": 483340,
+    "insertTime": 0.0037620000075548887
+  },
+  {
+    "numElements": 637858,
+    "insertTime": 0.003081000002566725
+  },
+  {
+    "numElements": 618515,
+    "insertTime": 0.01478200001292862
+  },
+  {
+    "numElements": 856864,
+    "insertTime": 0.0030399999814108014
+  },
+  {
+    "numElements": 174853,
+    "insertTime": 0.003280999982962385
+  },
+  {
+    "numElements": 761561,
+    "insertTime": 0.004228999983752146
+  },
+  {
+    "numElements": 323595,
+    "insertTime": 0.003028000006452203
+  },
+  {
+    "numElements": 730278,
+    "insertTime": 0.0033389999880455434
+  },
+  {
+    "numElements": 445664,
+    "insertTime": 0.0035889999999199063
+  },
+  {
+    "numElements": 402519,
+    "insertTime": 0.003323000011732802
+  },
+  {
+    "numElements": 739687,
+    "insertTime": 0.0027589999954216182
+  },
+  {
+    "numElements": 310555,
+    "insertTime": 0.0029609999910462648
+  },
+  {
+    "numElements": 542797,
+    "insertTime": 0.0033790000015869737
+  },
+  {
+    "numElements": 426876,
+    "insertTime": 0.0029799999902024865
+  },
+  {
+    "numElements": 362498,
+    "insertTime": 0.0030960000003688037
+  },
+  {
+    "numElements": 882748,
+    "insertTime": 0.0030580000020563602
+  },
+  {
+    "numElements": 529633,
+    "insertTime": 0.0033220000041183084
+  },
+  {
+    "numElements": 566260,
+    "insertTime": 0.003028000006452203
+  },
+  {
+    "numElements": 773889,
+    "insertTime": 0.016244000027654693
+  },
+  {
+    "numElements": 873188,
+    "insertTime": 0.00326399999903515
+  },
+  {
+    "numElements": 472158,
+    "insertTime": 0.0033180000027641654
+  },
+  {
+    "numElements": 423277,
+    "insertTime": 0.0033279999915976077
+  },
+  {
+    "numElements": 119669,
+    "insertTime": 0.0032829999981913716
+  },
+  {
+    "numElements": 343156,
+    "insertTime": 0.002910999988671392
+  },
+  {
+    "numElements": 262001,
+    "insertTime": 0.0030780000088270754
+  },
+  {
+    "numElements": 583801,
+    "insertTime": 0.0031709999893791974
+  },
+  {
+    "numElements": 957129,
+    "insertTime": 0.004123999999137595
+  },
+  {
+    "numElements": 224572,
+    "insertTime": 0.0027520000003278255
+  },
+  {
+    "numElements": 671221,
+    "insertTime": 0.003939999995054677
+  },
+  {
+    "numElements": 164270,
+    "insertTime": 0.0032199999841395766
+  },
+  {
+    "numElements": 849034,
+    "insertTime": 0.003823000006377697
+  },
+  {
+    "numElements": 10954,
+    "insertTime": 0.002003000001423061
+  },
+  {
+    "numElements": 860521,
+    "insertTime": 0.017116000002715737
+  },
+  {
+    "numElements": 823275,
+    "insertTime": 0.002845000009983778
+  },
+  {
+    "numElements": 271551,
+    "insertTime": 0.003216999990399927
+  },
+  {
+    "numElements": 486534,
+    "insertTime": 0.002853999991202727
+  },
+  {
+    "numElements": 935492,
+    "insertTime": 0.0032959999807644635
+  },
+  {
+    "numElements": 937541,
+    "insertTime": 0.0027929999923799187
+  },
+  {
+    "numElements": 819399,
+    "insertTime": 0.0036050000053364784
+  },
+  {
+    "numElements": 686321,
+    "insertTime": 0.0034410000080242753
+  },
+  {
+    "numElements": 523145,
+    "insertTime": 0.0055939999874681234
+  },
+  {
+    "numElements": 934423,
+    "insertTime": 0.0036890000046696514
+  },
+  {
+    "numElements": 900236,
+    "insertTime": 0.0032230000069830567
+  },
+  {
+    "numElements": 242215,
+    "insertTime": 0.016033000021707267
+  },
+  {
+    "numElements": 776152,
+    "insertTime": 0.003005000005941838
+  },
+  {
+    "numElements": 366515,
+    "insertTime": 0.003001999983098358
+  },
+  {
+    "numElements": 788778,
+    "insertTime": 0.003384999989066273
+  },
+  {
+    "numElements": 300999,
+    "insertTime": 0.0026369999977760017
+  },
+  {
+    "numElements": 558665,
+    "insertTime": 0.0033919999841600657
+  },
+  {
+    "numElements": 85036,
+    "insertTime": 0.0027199999894946814
+  },
+  {
+    "numElements": 366359,
+    "insertTime": 0.0033899999980349094
+  },
+  {
+    "numElements": 635619,
+    "insertTime": 0.00322400001459755
+  },
+  {
+    "numElements": 611863,
+    "insertTime": 0.0030079999996814877
+  },
+  {
+    "numElements": 511852,
+    "insertTime": 0.005042000004323199
+  },
+  {
+    "numElements": 475670,
+    "insertTime": 0.002802000002702698
+  },
+  {
+    "numElements": 234714,
+    "insertTime": 0.0028209999727550894
+  },
+  {
+    "numElements": 708202,
+    "insertTime": 0.003183000022545457
+  },
+  {
+    "numElements": 314464,
+    "insertTime": 0.0027889999910257757
+  },
+  {
+    "numElements": 751347,
+    "insertTime": 0.0031270000035874546
+  },
+  {
+    "numElements": 637512,
+    "insertTime": 0.0032829999981913716
+  },
+  {
+    "numElements": 664088,
+    "insertTime": 0.0031929999822750688
+  },
+  {
+    "numElements": 905933,
+    "insertTime": 0.004098000004887581
+  },
+  {
+    "numElements": 484675,
+    "insertTime": 0.002689999993890524
+  },
+  {
+    "numElements": 789818,
+    "insertTime": 0.0029240000003483146
+  },
+  {
+    "numElements": 21781,
+    "insertTime": 0.0014420000079553574
+  },
+  {
+    "numElements": 275400,
+    "insertTime": 0.002974000002723187
+  },
+  {
+    "numElements": 107135,
+    "insertTime": 0.002370000001974404
+  },
+  {
+    "numElements": 864548,
+    "insertTime": 0.0030559999868273735
+  },
+  {
+    "numElements": 483946,
+    "insertTime": 0.003492999996524304
+  },
+  {
+    "numElements": 852925,
+    "insertTime": 0.002948000008473173
+  },
+  {
+    "numElements": 674130,
+    "insertTime": 0.0031780000135768205
+  },
+  {
+    "numElements": 214724,
+    "insertTime": 0.002730000007431954
+  },
+  {
+    "numElements": 355819,
+    "insertTime": 0.0027780000236816704
+  },
+  {
+    "numElements": 301354,
+    "insertTime": 0.002716000017244369
+  },
+  {
+    "numElements": 197176,
+    "insertTime": 0.0031909999961499125
+  },
+  {
+    "numElements": 365967,
+    "insertTime": 0.0028879999881610274
+  },
+  {
+    "numElements": 960380,
+    "insertTime": 0.0031889999809209257
+  },
+  {
+    "numElements": 480600,
+    "insertTime": 0.003280000004451722
+  },
+  {
+    "numElements": 888566,
+    "insertTime": 0.015066000021761283
+  },
+  {
+    "numElements": 426864,
+    "insertTime": 0.003040000010514632
+  },
+  {
+    "numElements": 684147,
+    "insertTime": 0.0030609999666921794
+  },
+  {
+    "numElements": 953726,
+    "insertTime": 0.0024930000072345138
+  },
+  {
+    "numElements": 231527,
+    "insertTime": 0.003329999977722764
+  },
+  {
+    "numElements": 986892,
+    "insertTime": 0.0029719999874942005
+  },
+  {
+    "numElements": 458800,
+    "insertTime": 0.0029330000397749245
+  },
+  {
+    "numElements": 1827,
+    "insertTime": 0.0010659999679774046
+  },
+  {
+    "numElements": 63365,
+    "insertTime": 0.002567000046838075
+  },
+  {
+    "numElements": 94365,
+    "insertTime": 0.002669000008609146
+  },
+  {
+    "numElements": 786466,
+    "insertTime": 0.003131000034045428
+  },
+  {
+    "numElements": 150488,
+    "insertTime": 0.002829000004567206
+  },
+  {
+    "numElements": 853806,
+    "insertTime": 0.016520999954082072
+  },
+  {
+    "numElements": 699798,
+    "insertTime": 0.002582999994046986
+  },
+  {
+    "numElements": 486671,
+    "insertTime": 0.0030120000010356307
+  },
+  {
+    "numElements": 556992,
+    "insertTime": 0.002846999967005104
+  },
+  {
+    "numElements": 749454,
+    "insertTime": 0.0032050000154413283
+  },
+  {
+    "numElements": 56406,
+    "insertTime": 0.002736999944318086
+  },
+  {
+    "numElements": 87042,
+    "insertTime": 0.0029879999929107726
+  },
+  {
+    "numElements": 315568,
+    "insertTime": 0.0032869999995455146
+  },
+  {
+    "numElements": 426017,
+    "insertTime": 0.0032269999501295388
+  },
+  {
+    "numElements": 882383,
+    "insertTime": 0.0027209999971091747
+  },
+  {
+    "numElements": 372935,
+    "insertTime": 0.0031299999682232738
+  },
+  {
+    "numElements": 383333,
+    "insertTime": 0.002793000021483749
+  },
+  {
+    "numElements": 630311,
+    "insertTime": 0.0028139999485574663
+  },
+  {
+    "numElements": 626259,
+    "insertTime": 0.003093999985139817
+  },
+  {
+    "numElements": 627314,
+    "insertTime": 0.00317799998447299
+  },
+  {
+    "numElements": 120078,
+    "insertTime": 0.002823999966494739
+  },
+  {
+    "numElements": 64262,
+    "insertTime": 0.0024350000312551856
+  },
+  {
+    "numElements": 256661,
+    "insertTime": 0.004187000042293221
+  },
+  {
+    "numElements": 842193,
+    "insertTime": 0.01670799998100847
+  },
+  {
+    "numElements": 714205,
+    "insertTime": 0.003258999960962683
+  },
+  {
+    "numElements": 666701,
+    "insertTime": 0.003626000019721687
+  },
+  {
+    "numElements": 828812,
+    "insertTime": 0.0033519999706186354
+  },
+  {
+    "numElements": 427201,
+    "insertTime": 0.0032350000110454857
+  },
+  {
+    "numElements": 887512,
+    "insertTime": 0.00317799998447299
+  },
+  {
+    "numElements": 479346,
+    "insertTime": 0.0031450000242330134
+  },
+  {
+    "numElements": 452227,
+    "insertTime": 0.0028019999735988677
+  },
+  {
+    "numElements": 864871,
+    "insertTime": 0.0031930000404827297
+  },
+  {
+    "numElements": 175608,
+    "insertTime": 0.0029319999739527702
+  },
+  {
+    "numElements": 876857,
+    "insertTime": 0.0032789999968372285
+  },
+  {
+    "numElements": 355075,
+    "insertTime": 0.003025999991223216
+  },
+  {
+    "numElements": 499677,
+    "insertTime": 0.003123000031337142
+  },
+  {
+    "numElements": 929065,
+    "insertTime": 0.0031350000062957406
+  },
+  {
+    "numElements": 831475,
+    "insertTime": 0.015884000051300973
+  },
+  {
+    "numElements": 228532,
+    "insertTime": 0.0031430000090040267
+  },
+  {
+    "numElements": 437028,
+    "insertTime": 0.0028570000431500375
+  },
+  {
+    "numElements": 835935,
+    "insertTime": 0.003327000013086945
+  },
+  {
+    "numElements": 375133,
+    "insertTime": 0.003074999956879765
+  },
+  {
+    "numElements": 8474,
+    "insertTime": 0.0015230000135488808
+  },
+  {
+    "numElements": 799952,
+    "insertTime": 0.0032679999712854624
+  },
+  {
+    "numElements": 657720,
+    "insertTime": 0.0031450000242330134
+  },
+  {
+    "numElements": 135100,
+    "insertTime": 0.0033100000000558794
+  },
+  {
+    "numElements": 702256,
+    "insertTime": 0.0037319999537430704
+  },
+  {
+    "numElements": 673934,
+    "insertTime": 0.0032980000250972807
+  },
+  {
+    "numElements": 440935,
+    "insertTime": 0.003313999972306192
+  },
+  {
+    "numElements": 287554,
+    "insertTime": 0.0029560000402852893
+  },
+  {
+    "numElements": 499474,
+    "insertTime": 0.0032369999680668116
+  },
+  {
+    "numElements": 102249,
+    "insertTime": 0.003165000001899898
+  },
+  {
+    "numElements": 332770,
+    "insertTime": 0.003353999985847622
+  },
+  {
+    "numElements": 979961,
+    "insertTime": 0.003415999992284924
+  },
+  {
+    "numElements": 234461,
+    "insertTime": 0.002527999982703477
+  },
+  {
+    "numElements": 374527,
+    "insertTime": 0.016773000010289252
+  },
+  {
+    "numElements": 42370,
+    "insertTime": 0.0029119999962858856
+  },
+  {
+    "numElements": 823921,
+    "insertTime": 0.0037299999967217445
+  },
+  {
+    "numElements": 708580,
+    "insertTime": 0.003974999999627471
+  },
+  {
+    "numElements": 760129,
+    "insertTime": 0.003588999970816076
+  },
+  {
+    "numElements": 904080,
+    "insertTime": 0.004003000038210303
+  },
+  {
+    "numElements": 52846,
+    "insertTime": 0.002717000024858862
+  },
+  {
+    "numElements": 182517,
+    "insertTime": 0.002853000012692064
+  },
+  {
+    "numElements": 371263,
+    "insertTime": 0.0027549999649636447
+  },
+  {
+    "numElements": 885856,
+    "insertTime": 0.003120000008493662
+  },
+  {
+    "numElements": 125424,
+    "insertTime": 0.0032350000110454857
+  },
+  {
+    "numElements": 124088,
+    "insertTime": 0.002635000040754676
+  },
+  {
+    "numElements": 39175,
+    "insertTime": 0.0027620000182650983
+  },
+  {
+    "numElements": 744768,
+    "insertTime": 0.004919999977573752
+  },
+  {
+    "numElements": 115817,
+    "insertTime": 0.003443000023253262
+  },
+  {
+    "numElements": 264314,
+    "insertTime": 0.016330000013113022
+  },
+  {
+    "numElements": 90345,
+    "insertTime": 0.0028780000284314156
+  },
+  {
+    "numElements": 334327,
+    "insertTime": 0.003188000002410263
+  },
+  {
+    "numElements": 763512,
+    "insertTime": 0.003240999998524785
+  },
+  {
+    "numElements": 927912,
+    "insertTime": 0.002989000000525266
+  },
+  {
+    "numElements": 37325,
+    "insertTime": 0.0016570000443607569
+  },
+  {
+    "numElements": 101879,
+    "insertTime": 0.0026150000048801303
+  },
+  {
+    "numElements": 362167,
+    "insertTime": 0.0029119999962858856
+  },
+  {
+    "numElements": 834459,
+    "insertTime": 0.005215000011958182
+  },
+  {
+    "numElements": 195875,
+    "insertTime": 0.002952000009827316
+  },
+  {
+    "numElements": 550271,
+    "insertTime": 0.01650199998402968
+  },
+  {
+    "numElements": 392797,
+    "insertTime": 0.0032919999794103205
+  },
+  {
+    "numElements": 790598,
+    "insertTime": 0.0027000000118277967
+  },
+  {
+    "numElements": 898121,
+    "insertTime": 0.0030090000363998115
+  },
+  {
+    "numElements": 498036,
+    "insertTime": 0.0036440000403672457
+  },
+  {
+    "numElements": 715451,
+    "insertTime": 0.004279999993741512
+  },
+  {
+    "numElements": 757978,
+    "insertTime": 0.003083999967202544
+  },
+  {
+    "numElements": 983967,
+    "insertTime": 0.003136000013910234
+  },
+  {
+    "numElements": 897823,
+    "insertTime": 0.01906399999279529
+  },
+  {
+    "numElements": 942618,
+    "insertTime": 0.004093000025022775
+  },
+  {
+    "numElements": 728362,
+    "insertTime": 0.0034680000389926136
+  },
+  {
+    "numElements": 91317,
+    "insertTime": 0.0033500000135973096
+  },
+  {
+    "numElements": 943650,
+    "insertTime": 0.003093999985139817
+  },
+  {
+    "numElements": 9528,
+    "insertTime": 0.0014410000294446945
+  },
+  {
+    "numElements": 371203,
+    "insertTime": 0.002926000044681132
+  },
+  {
+    "numElements": 37316,
+    "insertTime": 0.0025529999984428287
+  },
+  {
+    "numElements": 734391,
+    "insertTime": 0.0027259999769739807
+  },
+  {
+    "numElements": 210128,
+    "insertTime": 0.0030269999988377094
+  },
+  {
+    "numElements": 120293,
+    "insertTime": 0.003216999990399927
+  },
+  {
+    "numElements": 190029,
+    "insertTime": 0.003099000023212284
+  },
+  {
+    "numElements": 252259,
+    "insertTime": 0.0035380000481382012
+  },
+  {
+    "numElements": 47587,
+    "insertTime": 0.0023240000009536743
+  },
+  {
+    "numElements": 412419,
+    "insertTime": 0.0036780000082217157
+  },
+  {
+    "numElements": 211195,
+    "insertTime": 0.003109999990556389
+  },
+  {
+    "numElements": 29257,
+    "insertTime": 0.0023919999948702753
+  },
+  {
+    "numElements": 586193,
+    "insertTime": 0.005265999992843717
+  },
+  {
+    "numElements": 752704,
+    "insertTime": 0.016074999992270023
+  },
+  {
+    "numElements": 572166,
+    "insertTime": 0.00326399999903515
+  },
+  {
+    "numElements": 893943,
+    "insertTime": 0.0029929999727755785
+  },
+  {
+    "numElements": 1300,
+    "insertTime": 0.0011130000348202884
+  },
+  {
+    "numElements": 434902,
+    "insertTime": 0.0031190000008791685
+  },
+  {
+    "numElements": 694809,
+    "insertTime": 0.002968000015243888
+  },
+  {
+    "numElements": 265450,
+    "insertTime": 0.002810999983921647
+  },
+  {
+    "numElements": 830401,
+    "insertTime": 0.0034730000188574195
+  },
+  {
+    "numElements": 501946,
+    "insertTime": 0.0028099999763071537
+  },
+  {
+    "numElements": 163300,
+    "insertTime": 0.003413999977055937
+  },
+  {
+    "numElements": 717851,
+    "insertTime": 0.003041999996639788
+  },
+  {
+    "numElements": 335057,
+    "insertTime": 0.0030070000211708248
+  },
+  {
+    "numElements": 189148,
+    "insertTime": 0.0029770000255666673
+  },
+  {
+    "numElements": 74017,
+    "insertTime": 0.0028009999659843743
+  },
+  {
+    "numElements": 90522,
+    "insertTime": 0.0027889999910257757
+  },
+  {
+    "numElements": 877158,
+    "insertTime": 0.015446000033989549
+  },
+  {
+    "numElements": 451915,
+    "insertTime": 0.003059999959077686
+  },
+  {
+    "numElements": 713308,
+    "insertTime": 0.0034439999726600945
+  },
+  {
+    "numElements": 632016,
+    "insertTime": 0.0030219999607652426
+  },
+  {
+    "numElements": 359322,
+    "insertTime": 0.003288000007160008
+  },
+  {
+    "numElements": 911891,
+    "insertTime": 0.00285799999255687
+  },
+  {
+    "numElements": 501571,
+    "insertTime": 0.002808000019285828
+  },
+  {
+    "numElements": 279694,
+    "insertTime": 0.0032369999680668116
+  },
+  {
+    "numElements": 881124,
+    "insertTime": 0.003109999990556389
+  },
+  {
+    "numElements": 46171,
+    "insertTime": 0.002356999961193651
+  },
+  {
+    "numElements": 177159,
+    "insertTime": 0.0030979999573901296
+  },
+  {
+    "numElements": 535062,
+    "insertTime": 0.003450999967753887
+  },
+  {
+    "numElements": 414619,
+    "insertTime": 0.0029250000370666385
+  },
+  {
+    "numElements": 41109,
+    "insertTime": 0.003731000004336238
+  },
+  {
+    "numElements": 679361,
+    "insertTime": 0.0033950000070035458
+  },
+  {
+    "numElements": 122264,
+    "insertTime": 0.004339000035542995
+  },
+  {
+    "numElements": 660976,
+    "insertTime": 0.003739000007044524
+  },
+  {
+    "numElements": 386554,
+    "insertTime": 0.02202999999281019
+  },
+  {
+    "numElements": 185432,
+    "insertTime": 0.003915000008419156
+  },
+  {
+    "numElements": 903114,
+    "insertTime": 0.0037529999972321093
+  },
+  {
+    "numElements": 481606,
+    "insertTime": 0.003481999970972538
+  },
+  {
+    "numElements": 809147,
+    "insertTime": 0.004530999984126538
+  },
+  {
+    "numElements": 674840,
+    "insertTime": 0.0037789999623782933
+  },
+  {
+    "numElements": 947574,
+    "insertTime": 0.005020999989937991
+  },
+  {
+    "numElements": 892543,
+    "insertTime": 0.003269999986514449
+  },
+  {
+    "numElements": 323670,
+    "insertTime": 0.0029349999967962503
+  },
+  {
+    "numElements": 978430,
+    "insertTime": 0.003771000017877668
+  },
+  {
+    "numElements": 864561,
+    "insertTime": 0.003688999975565821
+  },
+  {
+    "numElements": 148518,
+    "insertTime": 0.003513999981805682
+  },
+  {
+    "numElements": 329469,
+    "insertTime": 0.01605899998685345
+  },
+  {
+    "numElements": 448350,
+    "insertTime": 0.002962999977171421
+  },
+  {
+    "numElements": 183957,
+    "insertTime": 0.0029140000115148723
+  },
+  {
+    "numElements": 164489,
+    "insertTime": 0.0028019999735988677
+  },
+  {
+    "numElements": 281783,
+    "insertTime": 0.0031029999954625964
+  },
+  {
+    "numElements": 358272,
+    "insertTime": 0.003136000013910234
+  },
+  {
+    "numElements": 935727,
+    "insertTime": 0.0037040000315755606
+  },
+  {
+    "numElements": 654070,
+    "insertTime": 0.0032580000115558505
+  },
+  {
+    "numElements": 323744,
+    "insertTime": 0.002762999967671931
+  },
+  {
+    "numElements": 57864,
+    "insertTime": 0.0026240000152029097
+  },
+  {
+    "numElements": 776629,
+    "insertTime": 0.0037139999913051724
+  },
+  {
+    "numElements": 923662,
+    "insertTime": 0.01533899997593835
+  },
+  {
+    "numElements": 911784,
+    "insertTime": 0.003392999991774559
+  },
+  {
+    "numElements": 60542,
+    "insertTime": 0.0025730000343173742
+  },
+  {
+    "numElements": 75579,
+    "insertTime": 0.0027910000062547624
+  },
+  {
+    "numElements": 69272,
+    "insertTime": 0.0032099999953061342
+  },
+  {
+    "numElements": 394305,
+    "insertTime": 0.003735999984201044
+  },
+  {
+    "numElements": 173778,
+    "insertTime": 0.0034100000048056245
+  },
+  {
+    "numElements": 267646,
+    "insertTime": 0.003253999981097877
+  },
+  {
+    "numElements": 792951,
+    "insertTime": 0.004066000052262098
+  },
+  {
+    "numElements": 775699,
+    "insertTime": 0.003502999956253916
+  },
+  {
+    "numElements": 16647,
+    "insertTime": 0.003165000001899898
+  },
+  {
+    "numElements": 362662,
+    "insertTime": 0.002842000045347959
+  },
+  {
+    "numElements": 448409,
+    "insertTime": 0.017247000010684133
+  },
+  {
+    "numElements": 968719,
+    "insertTime": 0.004393999988678843
+  },
+  {
+    "numElements": 40310,
+    "insertTime": 0.0026440000510774553
+  },
+  {
+    "numElements": 129403,
+    "insertTime": 0.0034199999645352364
+  },
+  {
+    "numElements": 570029,
+    "insertTime": 0.003636999987065792
+  },
+  {
+    "numElements": 286347,
+    "insertTime": 0.0028199999942444265
+  },
+  {
+    "numElements": 997907,
+    "insertTime": 0.0032090000458993018
+  },
+  {
+    "numElements": 800678,
+    "insertTime": 0.0030719999922439456
+  },
+  {
+    "numElements": 971522,
+    "insertTime": 0.002587999973911792
+  },
+  {
+    "numElements": 94894,
+    "insertTime": 0.002527999982703477
+  },
+  {
+    "numElements": 863805,
+    "insertTime": 0.003228000015951693
+  },
+  {
+    "numElements": 942480,
+    "insertTime": 0.0034149999846704304
+  },
+  {
+    "numElements": 748552,
+    "insertTime": 0.014650000026449561
+  },
+  {
+    "numElements": 916194,
+    "insertTime": 0.003709999960847199
+  },
+  {
+    "numElements": 42988,
+    "insertTime": 0.002688000036869198
+  },
+  {
+    "numElements": 466775,
+    "insertTime": 0.004201000032480806
+  },
+  {
+    "numElements": 412350,
+    "insertTime": 0.0036570000229403377
+  },
+  {
+    "numElements": 347496,
+    "insertTime": 0.0045399999944493175
+  },
+  {
+    "numElements": 429915,
+    "insertTime": 0.018730999960098416
+  },
+  {
+    "numElements": 491424,
+    "insertTime": 0.003217000048607588
+  },
+  {
+    "numElements": 878650,
+    "insertTime": 0.003545000043231994
+  },
+  {
+    "numElements": 164333,
+    "insertTime": 0.003802000021096319
+  },
+  {
+    "numElements": 748669,
+    "insertTime": 0.003351000021211803
+  },
+  {
+    "numElements": 565521,
+    "insertTime": 0.00302100001135841
+  },
+  {
+    "numElements": 139921,
+    "insertTime": 0.003093999985139817
+  },
+  {
+    "numElements": 206161,
+    "insertTime": 0.003220000013243407
+  },
+  {
+    "numElements": 540499,
+    "insertTime": 0.00317799998447299
+  },
+  {
+    "numElements": 372551,
+    "insertTime": 0.0037639999645762146
+  },
+  {
+    "numElements": 103573,
+    "insertTime": 0.002840000030118972
+  },
+  {
+    "numElements": 813245,
+    "insertTime": 0.0028260000399313867
+  },
+  {
+    "numElements": 242901,
+    "insertTime": 0.0027830000035464764
+  },
+  {
+    "numElements": 896558,
+    "insertTime": 0.0033999999868683517
+  },
+  {
+    "numElements": 494539,
+    "insertTime": 0.0034910000395029783
+  },
+  {
+    "numElements": 214335,
+    "insertTime": 0.003917000023648143
+  },
+  {
+    "numElements": 647216,
+    "insertTime": 0.003293000045232475
+  },
+  {
+    "numElements": 663449,
+    "insertTime": 0.003257000003941357
+  },
+  {
+    "numElements": 359827,
+    "insertTime": 0.0027860000263899565
+  },
+  {
+    "numElements": 865554,
+    "insertTime": 0.0034570000134408474
+  },
+  {
+    "numElements": 710263,
+    "insertTime": 0.0029750000103376806
+  },
+  {
+    "numElements": 68530,
+    "insertTime": 0.0030740000074729323
+  },
+  {
+    "numElements": 425474,
+    "insertTime": 0.003356000001076609
+  },
+  {
+    "numElements": 646871,
+    "insertTime": 0.0027000000118277967
+  },
+  {
+    "numElements": 82975,
+    "insertTime": 0.0030079999705776572
+  },
+  {
+    "numElements": 122552,
+    "insertTime": 0.003867999999783933
+  },
+  {
+    "numElements": 237300,
+    "insertTime": 0.0035250000073574483
+  },
+  {
+    "numElements": 275911,
+    "insertTime": 0.0028879999881610274
+  },
+  {
+    "numElements": 452128,
+    "insertTime": 0.01788599998690188
+  },
+  {
+    "numElements": 61889,
+    "insertTime": 0.0027550000231713057
+  },
+  {
+    "numElements": 361710,
+    "insertTime": 0.0033100000000558794
+  },
+  {
+    "numElements": 602095,
+    "insertTime": 0.003001999983098358
+  },
+  {
+    "numElements": 315230,
+    "insertTime": 0.0032869999995455146
+  },
+  {
+    "numElements": 519245,
+    "insertTime": 0.0031999999773688614
+  },
+  {
+    "numElements": 263413,
+    "insertTime": 0.0030510000069625676
+  },
+  {
+    "numElements": 590794,
+    "insertTime": 0.0030070000211708248
+  },
+  {
+    "numElements": 318523,
+    "insertTime": 0.0029149999609217048
+  },
+  {
+    "numElements": 582750,
+    "insertTime": 0.002673999988473952
+  },
+  {
+    "numElements": 997407,
+    "insertTime": 0.003274999966379255
+  },
+  {
+    "numElements": 236609,
+    "insertTime": 0.002595999976620078
+  },
+  {
+    "numElements": 463315,
+    "insertTime": 0.0029380000196397305
+  },
+  {
+    "numElements": 437700,
+    "insertTime": 0.00269799999659881
+  },
+  {
+    "numElements": 6690,
+    "insertTime": 0.002260000037495047
+  },
+  {
+    "numElements": 494441,
+    "insertTime": 0.014718999969772995
+  },
+  {
+    "numElements": 124309,
+    "insertTime": 0.003265000006649643
+  },
+  {
+    "numElements": 706105,
+    "insertTime": 0.003479000006336719
+  },
+  {
+    "numElements": 47982,
+    "insertTime": 0.0030900000128895044
+  },
+  {
+    "numElements": 71273,
+    "insertTime": 0.0027889999910257757
+  },
+  {
+    "numElements": 81861,
+    "insertTime": 0.0028830000082962215
+  },
+  {
+    "numElements": 219445,
+    "insertTime": 0.003208999987691641
+  },
+  {
+    "numElements": 617341,
+    "insertTime": 0.0030979999573901296
+  },
+  {
+    "numElements": 776325,
+    "insertTime": 0.0032099999953061342
+  },
+  {
+    "numElements": 944664,
+    "insertTime": 0.0035389999975450337
+  },
+  {
+    "numElements": 183894,
+    "insertTime": 0.002681999991182238
+  },
+  {
+    "numElements": 220990,
+    "insertTime": 0.002849999989848584
+  },
+  {
+    "numElements": 76081,
+    "insertTime": 0.0025819999864324927
+  },
+  {
+    "numElements": 923238,
+    "insertTime": 0.004328000009991229
+  },
+  {
+    "numElements": 161065,
+    "insertTime": 0.0028750000055879354
+  },
+  {
+    "numElements": 362645,
+    "insertTime": 0.004249999998137355
+  },
+  {
+    "numElements": 103961,
+    "insertTime": 0.00269799999659881
+  },
+  {
+    "numElements": 350400,
+    "insertTime": 0.0035730000236071646
+  },
+  {
+    "numElements": 146948,
+    "insertTime": 0.0029559999820776284
+  },
+  {
+    "numElements": 345794,
+    "insertTime": 0.0029699999722652137
+  },
+  {
+    "numElements": 556137,
+    "insertTime": 0.004037000006064773
+  },
+  {
+    "numElements": 427913,
+    "insertTime": 0.0033600000315345824
+  },
+  {
+    "numElements": 448969,
+    "insertTime": 0.003757000027690083
+  },
+  {
+    "numElements": 517687,
+    "insertTime": 0.00330700003542006
+  },
+  {
+    "numElements": 328212,
+    "insertTime": 0.0031479999888688326
+  },
+  {
+    "numElements": 280141,
+    "insertTime": 0.0036299999919719994
+  },
+  {
+    "numElements": 525926,
+    "insertTime": 0.0035570000181905925
+  },
+  {
+    "numElements": 455260,
+    "insertTime": 0.0033229999826289713
+  },
+  {
+    "numElements": 535459,
+    "insertTime": 0.0029440000071190298
+  },
+  {
+    "numElements": 647532,
+    "insertTime": 0.017174999986309558
+  },
+  {
+    "numElements": 778201,
+    "insertTime": 0.0032289999653585255
+  },
+  {
+    "numElements": 828924,
+    "insertTime": 0.0032950000022538006
+  },
+  {
+    "numElements": 423867,
+    "insertTime": 0.003238000033888966
+  },
+  {
+    "numElements": 623501,
+    "insertTime": 0.002967999957036227
+  },
+  {
+    "numElements": 622701,
+    "insertTime": 0.0031210000161081553
+  },
+  {
+    "numElements": 454892,
+    "insertTime": 0.003052000014577061
+  },
+  {
+    "numElements": 322091,
+    "insertTime": 0.003120000008493662
+  },
+  {
+    "numElements": 830462,
+    "insertTime": 0.0035329999518580735
+  },
+  {
+    "numElements": 856899,
+    "insertTime": 0.0037849999498575926
+  },
+  {
+    "numElements": 444905,
+    "insertTime": 0.018855999980587512
+  },
+  {
+    "numElements": 573208,
+    "insertTime": 0.0037250000168569386
+  },
+  {
+    "numElements": 290620,
+    "insertTime": 0.0058880000142380595
+  },
+  {
+    "numElements": 752870,
+    "insertTime": 0.0034020000020973384
+  },
+  {
+    "numElements": 230442,
+    "insertTime": 0.0030869999900460243
+  },
+  {
+    "numElements": 984086,
+    "insertTime": 0.003543000028003007
+  },
+  {
+    "numElements": 31787,
+    "insertTime": 0.0033549999934621155
+  },
+  {
+    "numElements": 502208,
+    "insertTime": 0.0031580000068061054
+  },
+  {
+    "numElements": 883194,
+    "insertTime": 0.0031510000117123127
+  },
+  {
+    "numElements": 105498,
+    "insertTime": 0.003124999988358468
+  },
+  {
+    "numElements": 23651,
+    "insertTime": 0.0024449999909847975
+  },
+  {
+    "numElements": 133003,
+    "insertTime": 0.0031220000237226486
+  },
+  {
+    "numElements": 792596,
+    "insertTime": 0.0036010000039823353
+  },
+  {
+    "numElements": 787351,
+    "insertTime": 0.003250999958254397
+  },
+  {
+    "numElements": 885029,
+    "insertTime": 0.0031970000127330422
+  },
+  {
+    "numElements": 297289,
+    "insertTime": 0.003173000004608184
+  },
+  {
+    "numElements": 758956,
+    "insertTime": 0.004042999993544072
+  },
+  {
+    "numElements": 49161,
+    "insertTime": 0.003276999981608242
+  },
+  {
+    "numElements": 564499,
+    "insertTime": 0.0032660000142641366
+  },
+  {
+    "numElements": 697215,
+    "insertTime": 0.015651999972760677
+  },
+  {
+    "numElements": 570717,
+    "insertTime": 0.003503000014461577
+  },
+  {
+    "numElements": 742576,
+    "insertTime": 0.003016000031493604
+  },
+  {
+    "numElements": 242748,
+    "insertTime": 0.0031380000291392207
+  },
+  {
+    "numElements": 267101,
+    "insertTime": 0.0033920000423677266
+  },
+  {
+    "numElements": 843346,
+    "insertTime": 0.0027990000089630485
+  },
+  {
+    "numElements": 797775,
+    "insertTime": 0.0029850000282749534
+  },
+  {
+    "numElements": 272686,
+    "insertTime": 0.0029940000385977328
+  },
+  {
+    "numElements": 53485,
+    "insertTime": 0.00241499999538064
+  },
+  {
+    "numElements": 676759,
+    "insertTime": 0.0030350000015459955
+  },
+  {
+    "numElements": 558668,
+    "insertTime": 0.01594499999191612
+  },
+  {
+    "numElements": 402367,
+    "insertTime": 0.003437999985180795
+  },
+  {
+    "numElements": 864648,
+    "insertTime": 0.0035229999921284616
+  },
+  {
+    "numElements": 531146,
+    "insertTime": 0.0030169999809004366
+  },
+  {
+    "numElements": 994316,
+    "insertTime": 0.003282999969087541
+  },
+  {
+    "numElements": 825269,
+    "insertTime": 0.0029150000191293657
+  },
+  {
+    "numElements": 488766,
+    "insertTime": 0.002777000016067177
+  },
+  {
+    "numElements": 431815,
+    "insertTime": 0.0027330000302754343
+  },
+  {
+    "numElements": 467891,
+    "insertTime": 0.003112000005785376
+  },
+  {
+    "numElements": 561098,
+    "insertTime": 0.0028670000028796494
+  },
+  {
+    "numElements": 236215,
+    "insertTime": 0.0033389999880455434
+  },
+  {
+    "numElements": 743393,
+    "insertTime": 0.0027969999937340617
+  },
+  {
+    "numElements": 1692,
+    "insertTime": 0.0010580000234767795
+  },
+  {
+    "numElements": 702251,
+    "insertTime": 0.0030450000194832683
+  },
+  {
+    "numElements": 902045,
+    "insertTime": 0.01631099998485297
+  },
+  {
+    "numElements": 511637,
+    "insertTime": 0.0031400000443682075
+  },
+  {
+    "numElements": 172032,
+    "insertTime": 0.002970999979879707
+  },
+  {
+    "numElements": 409048,
+    "insertTime": 0.003151999961119145
+  },
+  {
+    "numElements": 979730,
+    "insertTime": 0.003061999974306673
+  },
+  {
+    "numElements": 693368,
+    "insertTime": 0.003474000026471913
+  },
+  {
+    "numElements": 396830,
+    "insertTime": 0.0034940000041387975
+  },
+  {
+    "numElements": 498187,
+    "insertTime": 0.003041999996639788
+  },
+  {
+    "numElements": 496250,
+    "insertTime": 0.0033970000222325325
+  },
+  {
+    "numElements": 897854,
+    "insertTime": 0.003449999960139394
+  },
+  {
+    "numElements": 823232,
+    "insertTime": 0.003117999993264675
+  },
+  {
+    "numElements": 515912,
+    "insertTime": 0.0031170000438578427
+  },
+  {
+    "numElements": 546972,
+    "insertTime": 0.003436999977566302
+  },
+  {
+    "numElements": 451570,
+    "insertTime": 0.0031899999594315886
+  },
+  {
+    "numElements": 601733,
+    "insertTime": 0.0032059999648481607
+  },
+  {
+    "numElements": 474148,
+    "insertTime": 0.0034410000080242753
+  },
+  {
+    "numElements": 959637,
+    "insertTime": 0.0035590000334195793
+  },
+  {
+    "numElements": 940014,
+    "insertTime": 0.01626800000667572
+  },
+  {
+    "numElements": 895307,
+    "insertTime": 0.003253999981097877
+  },
+  {
+    "numElements": 543186,
+    "insertTime": 0.0031629999866709113
+  },
+  {
+    "numElements": 871873,
+    "insertTime": 0.003571000008378178
+  },
+  {
+    "numElements": 837574,
+    "insertTime": 0.003819999983534217
+  },
+  {
+    "numElements": 953219,
+    "insertTime": 0.0038460000068880618
+  },
+  {
+    "numElements": 467406,
+    "insertTime": 0.003826000029221177
+  },
+  {
+    "numElements": 511214,
+    "insertTime": 0.0033810000168159604
+  },
+  {
+    "numElements": 472628,
+    "insertTime": 0.0036379999946802855
+  },
+  {
+    "numElements": 689783,
+    "insertTime": 0.0036989999935030937
+  },
+  {
+    "numElements": 990681,
+    "insertTime": 0.0030979999573901296
+  },
+  {
+    "numElements": 299448,
+    "insertTime": 0.003244000021368265
+  },
+  {
+    "numElements": 604170,
+    "insertTime": 0.0030450000194832683
+  },
+  {
+    "numElements": 675095,
+    "insertTime": 0.002765999990515411
+  },
+  {
+    "numElements": 835148,
+    "insertTime": 0.014973999990615994
+  },
+  {
+    "numElements": 939759,
+    "insertTime": 0.003081000002566725
+  },
+  {
+    "numElements": 911086,
+    "insertTime": 0.0035439999774098396
+  },
+  {
+    "numElements": 354601,
+    "insertTime": 0.003891000000294298
+  },
+  {
+    "numElements": 165603,
+    "insertTime": 0.002788000041618943
+  },
+  {
+    "numElements": 904571,
+    "insertTime": 0.002370000001974404
+  },
+  {
+    "numElements": 665519,
+    "insertTime": 0.0034439999726600945
+  },
+  {
+    "numElements": 668904,
+    "insertTime": 0.003090999962296337
+  },
+  {
+    "numElements": 133889,
+    "insertTime": 0.002757999987807125
+  },
+  {
+    "numElements": 414722,
+    "insertTime": 0.002997000003233552
+  }
+]
