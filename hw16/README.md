@@ -1,6 +1,5 @@
-# Projector HSA Home work #16: DDoS Attacks
 
-## To run the project:
+## run the project:
 
 1. Select the type of DDoS attack you want to perform
 
