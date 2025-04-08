@@ -44,6 +44,9 @@ jspm_packages/
 cache/
 mysql-data/
 es-data/
+beanstalkd-data/
+redis-aof-data/
+redis-rdb-data/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/

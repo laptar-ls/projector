@@ -1,0 +1,4 @@
+node_modules/
+beanstalkd-data/
+redis-aof-data/
+redis-rdb-data/

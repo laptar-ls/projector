@@ -1,0 +1,42 @@
+services:
+  beanstalkd:
+    image: schickling/beanstalkd
+    container_name: beanstalkd
+    ports:
+      - "11300:11300"
+    volumes:
+      - ./beanstalkd-data:/data
+
+  redis_rdb:
+    image: redis:6
+    container_name: redis_rdb
+    command: ["redis-server", "/usr/local/etc/redis/redis-rdb.conf"]
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis-rdb-data:/data
+      - ./config/redis-rdb.conf:/usr/local/etc/redis/redis-rdb.conf
+
+  redis_aof:
+    image: redis:6
+    container_name: redis_aof
+    command: ["redis-server", "/usr/local/etc/redis/redis-aof.conf"]
+    ports:
+      - "6380:6379"
+    volumes:
+      - ./redis-aof-data:/data
+      - ./config/redis-aof.conf:/usr/local/etc/redis/redis-aof.conf
+
+  api:
+    build: ./api
+    ports:
+      - "3000:3000"
+    depends_on:
+      - beanstalkd
+      - redis_rdb
+      - redis_aof
+
+volumes:
+  beanstalkd-data:
+  redis-rdb-data:
+  redis-aof-data:
