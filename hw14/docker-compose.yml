@@ -1,0 +1,60 @@
+services:
+  load-balancer:
+    container_name: load-balancer
+    image: anroe/nginx-geoip2
+    volumes:
+      - ./nginx/load-balancer:/etc/nginx
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+    depends_on:
+      - server-de
+      - server-us1
+      - server-us2
+      - server-other
+      - server-backup
+
+  server-de:
+    container_name: server-de
+    image: nginx
+    volumes:
+      - ./nginx/server-de:/etc/nginx/conf.d
+    networks:
+      - app-network
+
+  server-us1:
+    container_name: server-us1
+    image: nginx
+    volumes:
+      - ./nginx/server-us1:/etc/nginx/conf.d
+    networks:
+      - app-network
+
+  server-us2:
+    container_name: server-us2
+    image: nginx
+    volumes:
+      - ./nginx/server-us2:/etc/nginx/conf.d
+    networks:
+      - app-network
+
+  server-other:
+    container_name: server-other
+    image: nginx
+    volumes:
+      - ./nginx/server-other:/etc/nginx/conf.d
+    networks:
+      - app-network
+
+  server-backup:
+    container_name: server-backup
+    image: nginx
+    volumes:
+      - ./nginx/server-backup:/etc/nginx/conf.d
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
